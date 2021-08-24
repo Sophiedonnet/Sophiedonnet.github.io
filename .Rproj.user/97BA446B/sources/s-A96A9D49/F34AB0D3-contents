@@ -4,13 +4,14 @@ navbar:
   logo: Logotype-INRAE.jpg
   title: 'Sophie Donnet'
   left:
-  - text: "Bio "
+  - text: "Biography"
     icon: fa-child
-    href: bio.html
+    href: biography.html
   - text: "Research "
     icon: fa-chart-area
     menu:
       - text: "Research interests"
+        icon: fa-flask
         href: research.html
       - text: "Publications"
         href: publications.html
@@ -18,19 +19,23 @@ navbar:
       - text: "Talks"
         href: talks.html
         icon: fa-comment-o 
+      - text: "Students"
+        href: students.html
+        icon: fa-graduation-cap 
+      
+        
   - text: "Teaching"
     icon: fa-laptop
     menu:
       - text: "Bayesian Statistics"
         href: bayesian_stat.html
       - text: "Master MathSV"
-        href: maste_math_SV.html
+        href: master_math_SV.html
              
   right:
   - text: "Github"
     icon: fab fa-github
     href: https://github.com/Sophiedonnet
-  
 
      
       
