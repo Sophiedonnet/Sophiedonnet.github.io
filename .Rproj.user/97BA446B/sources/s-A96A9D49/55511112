@@ -1,27 +1,27 @@
 {
-    "id": "528A3AA5",
-    "path": "~/WORK_LOCAL/ADMINISTRATIF/PAGE_WEB_PERSO/Sophiedonnet.github.io/research.Rmd",
-    "project_path": "research.Rmd",
+    "id": "55511112",
+    "path": "~/WORK_LOCAL/ADMINISTRATIF/PAGE_WEB_PERSO/Sophiedonnet.github.io/biography.Rmd",
+    "project_path": "biography.Rmd",
     "type": "r_markdown",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1629791330426.0,
+    "created": 1629798966778.0,
     "source_on_save": false,
-    "relative_order": 6,
+    "relative_order": 7,
     "properties": {
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "15,63",
-        "scrollLine": "9"
+        "cursorPosition": "7,19",
+        "scrollLine": "7"
     },
     "folds": "",
-    "lastKnownWriteTime": 1629799820,
+    "lastKnownWriteTime": 1629798975,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1629799820999,
+    "last_content_update": 1629798975168,
     "read_only": false,
     "read_only_alternatives": []
 }

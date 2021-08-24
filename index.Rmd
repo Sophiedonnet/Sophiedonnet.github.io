@@ -2,12 +2,11 @@
 title: "Sophie Donnet"
 output: 
   html_document:
-   logo: Logotype-INRAE.jpg
+   logo: img/Logotype-INRAE.jpg
    number_sections: false
-   highlight: tango
    css: style.css
    includes:
-     after_body: extlogo.html
+     before_body: extlogo.html
 ---
 
 
@@ -41,8 +40,5 @@ You will find more details on the Research section.
 
 - <i class="fa fa-at"></i> <a href="mailto:sophie.donnet@inrae.fr
 ">sophie [dot] donnet  [at] inrae [dot] fr</a>
-
-- <i class = "fab fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/sophiedonnet/)  
- <i class="fab fa-researchgate"></i> [Research gate](https://www.researchgate.net/profile/Sophie-Donnet)
 
 
