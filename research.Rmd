@@ -42,3 +42,8 @@ Statistical Inference for Gaussian Graphical Models
 
 - Other Application fields : neuroscience, pharmacokinetics, food risk, EDF reliability, social networks
 
+
+
+## Projects
+
+

@@ -22,7 +22,7 @@ output:
 
 ## Previous positions
 
-- 2012-2014 : Long time mission in Mexico, as a visiting researcher at [CIMAT](https://www.cimat.mx) (Centro de Investigacion en Matematicas) and Instituto de Matematicas, Universidad Nacional Autonoma de México (UNAM).  
+- 2012-2014 : Long time mission in Mexico, as a visiting researcher at [CIMAT](https://www.cimat.mx) (Centro de Investigacion en Matematicas) and [Instituto de Matematicas, Universidad Nacional Autonoma de México (UNAM)](https://www.matem.unam.mx/).  
 
 - 2007 - 2013 : Lecturer (Maître de conférences) at   [Université Paris-Dauphine](https://dauphine.psl.eu). Membre du [CEREMADE](https://www.ceremade.dauphine.fr)
 
@@ -36,7 +36,7 @@ output:
 
 
 
-- 2003 - 2006 : **PhD in Statistics**. Defended  30/11/2006 at University Paris-Sud. *Advisors* : M. Lavielle (Université Paris-Descartes) et J.-B. Poline (INRIA-Neuropsin). *Title* : **Inversion de données IRMf. Estimation et sélection de modèles**. 
+- 2003 - 2006 : **PhD in Statistics**. Defended  30/11/2006 at University Paris-Sud. *Advisors* : [M. Lavielle][http://www.cmap.polytechnique.fr/~lavielle/)  et [J.-B. Poline](https://www.mcgill.ca/neuro/jean-baptiste-poline-phd) (INRIA-Neuropsin). *Title* : **Inversion de données IRMf. Estimation et sélection de modèles**. 
 
  - 2002 - 2003 : Master 2 in Stochastic modeling and statistics at  University Paris Sud.
  

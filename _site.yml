@@ -16,9 +16,9 @@ navbar:
       - text: "Publications"
         href: publications.html
         icon: fa-file-text-o
-      - text: "Talks"
-        href: talks.html
-        icon: fa-comment-o 
+      - text: "R packages"
+        icon: fa-r-project
+        href: Rpackages.html
       - text: "Students"
         href: students.html
         icon: fa-graduation-cap 
@@ -31,6 +31,8 @@ navbar:
         href: bayesian_stat.html
       - text: "Master MathSV"
         href: master_math_SV.html
+      - text: "Linear model"
+        href: linearmodel.html
              
   right:
   - text : "On the web"

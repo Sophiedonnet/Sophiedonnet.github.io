@@ -1,27 +1,27 @@
 {
-    "id": "528A3AA5",
-    "path": "~/WORK_LOCAL/ADMINISTRATIF/PAGE_WEB_PERSO/Sophiedonnet.github.io/research.Rmd",
-    "project_path": "research.Rmd",
+    "id": "ECDDC455",
+    "path": "~/WORK_LOCAL/ADMINISTRATIF/PAGE_WEB_PERSO/Sophiedonnet.github.io/Rpackages.Rmd",
+    "project_path": "Rpackages.Rmd",
     "type": "r_markdown",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1629791330426.0,
+    "created": 1629821356551.0,
     "source_on_save": false,
-    "relative_order": 6,
+    "relative_order": 7,
     "properties": {
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "48,0",
-        "scrollLine": "32"
+        "cursorPosition": "1,17",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1629824261,
+    "lastKnownWriteTime": 1629821866,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1629824261671,
+    "last_content_update": 1629821866608,
     "read_only": false,
     "read_only_alternatives": []
 }
