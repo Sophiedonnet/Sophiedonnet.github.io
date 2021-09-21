@@ -16,6 +16,9 @@ navbar:
       - text: "Collaborators"
         href: collaborators.html
         icon: fas fa-users
+      - text: "Projects"
+        href: projects.html
+        icon: fas fa-project-diagram
       - text: "Publications"
         href: publications.html
         icon: fa-file-text-o
