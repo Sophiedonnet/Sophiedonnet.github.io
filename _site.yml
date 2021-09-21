@@ -29,10 +29,10 @@ navbar:
     menu:
       - text: "Bayesian Statistics"
         href: bayesian_stat.html
-      - text: "Master MathSV"
-        href: master_math_SV.html
       - text: "Linear model"
         href: linearmodel.html
+      
+      
              
   right:
   - text : "On the web"
@@ -58,5 +58,5 @@ navbar:
       
 output:
   html_document:
-    theme: cosmo
+    theme: flatly
     highlight: haddock

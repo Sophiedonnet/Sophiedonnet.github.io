@@ -19,7 +19,7 @@ output:
 ## Submitted papers
 
 
-  - [S3] *Impact of the mesoscale structure of a bipartite ecological interaction network on its robustness through a probabilistic modeling*, S.-C. Chabert-Liddell, P. Barbillon, S. Donnet. Minor revision at Environmetrics [Arxiv]()
+  - [S3]  *Impact of the mesoscale structure of a bipartite ecological interaction network on its robustness through a probabilistic modeling*, S.-C. Chabert-Liddell, P. Barbillon, S. Donnet. Minor revision at Environmetrics [Arxiv]()
 
  -  [S2] *Modelling digit preference in ecological count data: A Bayesian approach*.   Matthieu Authier, I. Albert, D. Ba, S. Donnet, M. Genu, 
 E. Parent. Major revision at Journal of Agricultural, Biological, and Environmental Statistics

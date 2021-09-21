@@ -1,0 +1,88 @@
+---
+title: "ExamExec"
+author: "S. Donnet"
+date: "29 avril 2020"
+output:
+  pdf_document: 
+    keep_tex: yes
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+ 
+```{r}
+load("data_aero.Rdata")
+data_aero
+```
+
+
+Les données sont représentées sur le graphique ci dessous. 
+
+```{r,echo  =FALSE, eval= TRUE}
+library(ggplot2)
+g <- ggplot(data_aero,aes(x = temperature,y = resistance ,group=material))
+g + geom_point(aes(shape=material,colour=material))
+```
+
+Pour chacune des instructions R, ecrire le modèle statistique correspondant ainsi que les contraintes sur les paramètres rendant le modèle identifiable.
+
+```{r, echo = TRUE,eval=FALSE}
+res_lm <- lm (resistance ~ temperature*material ,data=data_aero)
+```
+
+```{r,echo = TRUE,eval=FALSE}
+res_lm <- lm (resistance ~ temperature ,data=data_aero)
+```
+
+```{r,echo = TRUE,eval=FALSE}
+res_lm <- lm (resistance ~ material ,data=data_aero)
+``` 
+
+```{r}
+res_lm <- lm (resistance ~ material + temperature ,data=data_aero)
+``` 
+
+## Modèle de régression : 
+On s'intéresse au modèle expliquant la résistance en fonction de la température. 
+Analyser les graphes de résidus suivants: 
+```{r, reg_resi}
+res_reg <- lm (resistance ~ temperature ,data=data_aero)
+par(mfrow = c(2,2))
+plot(res_reg)
+```
+
+On ne prend qu'un partie des observations. Analyser de nouveau les graphes de résidus
+```{r}
+data_aero_2 <- data_aero[data_aero$temperature > 125,]
+res_reg_2 <- lm (resistance ~ temperature*material ,data=data_aero_2)
+par(mfrow = c(1,1))
+plot(res_reg_2)
+```
+
+
+## Tests
+Quel est le test fait dans l'instruction suivante. Donner  
+```{r}
+res_inter <- lm (resistance ~ temperature*material ,data=data_aero_2)
+res_add <- lm (resistance ~ material + temperature ,data=data_aero_2)
+anova(res_add,res_inter)
+```
+
+
+Quel est le test fait dans l'instruction suivante. Donner  
+```{r}
+res_add <- lm (resistance ~ temperature+ material ,data=data_aero_2)
+res_reg <- lm (resistance ~  temperature ,data=data_aero_2)
+anova(res_reg,res_add)
+```
+Quel est le test fait dans l'instruction suivante. Donner  
+```{r}
+summary(res_add)
+```
+ 
+ 

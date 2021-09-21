@@ -1,0 +1,90 @@
+---
+title: "Publications"
+output: 
+  html_document:
+   toc: false
+   logo: img/Logotype-INRAE.jpg
+   number_sections: false
+   highlight: tango
+   css: style.css
+   includes:
+     before_body: extlogo.html
+---
+
+
+<br> 
+
+<br> 
+
+## Submitted papers
+
+
+  - [S3]  *Impact of the mesoscale structure of a bipartite ecological interaction network on its robustness through a probabilistic modeling*, S.-C. Chabert-Liddell, P. Barbillon, S. Donnet. Minor revision at Environmetrics [Arxiv]()
+
+ -  [S2] *Modelling digit preference in ecological count data: A Bayesian approach*.   Matthieu Authier, I. Albert, D. Ba, S. Donnet, M. Genu, 
+E. Parent. Major revision at Journal of Agricultural, Biological, and Environmental Statistics
+
+ - [S1] *Expert elicitation and hierarchical Bayesian approach for parametric
+survival models: An application to Ixodes ricinus ticks exposed to
+various temperature and relative humidity*.  P. Wongnak, S. Bord, S.  Donnet, T. Hoch, F. Beugnet , K. Chalvet-Monfray. 
+Submitted to Ecological Modelling
+
+
+
+##  Published or accepted articles
+
+  - [A20]  Accelerating Bayesian estimation for network Poisson models using frequentist variational estimates. Sophie Donnet, Stéphane Robin.  [JRSSC](https://rss.onlinelibrary.wiley.com/doi/10.1111/rssc.12489), 16 April 2021.   [Arxiv](https://arxiv.org/abs/1907.09771).
+  
+ - [A19]  A Stochastic Block Model for Multilevel Networks: Application to the Sociology of Organisations. Saint-Clair Chabert-Liddell, Pierre Barbillon, Sophie Donnet & Emmanuel Lazega  [Computational Statistics and Data Analysis](https://www.sciencedirect.com/science/article/pii/S016794732100013X?via%3Dihub), Volume 158, june 2021.  [Arxiv](https://arxiv.org/abs/1910.10512).
+ 
+ -  [A18] Block models for multipartite networks. Applications in ecology and  ethnobiology. A. Bar-Hen, P. Barbillon & S. Donnet.  [Statistical Modelling](https://journals.sagepub.com/doi/abs/10.1177/1471082X20963254), First Published December 18, 2020.   [Arxiv]() 
+
+  -  [A17] S. Donnet, V. Rivoirard & J. Rousseau. Nonparametric Bayesian estimation of multivariate Hawkes processes.  [Annals of Statistics](https://projecteuclid.org/download/pdfview_1/euclid.aos/1600480929), 2020, Vol. 48, No. 5, 2698-2727. 
+ 
+ -  [A16] E. Lazega, A. Bar-Hen, P. Barbillon, S. Donnet. Effects of competition on collective learning in advice networks. [Social Networks](https://www.sciencedirect.com/science/article/pii/S0378873316301216), Volume 47, October 2016, Pages 1–14 
+
+- [A15]  P. Barbillon, S. Donnet, E. Lazega, A. Bar-Hen. Stochastic block models for multiplex networks: an application ot multilevel network of researchers. [JRSSA](https://rss.onlinelibrary.wiley.com/doi/full/10.1111/rssa.12193). Volume 180, Issue1, January 2017, Pages 295-314
+
+- [A14]  S. Donnet, V. Rivoirard, J. Rousseau, C. Scricciolo.  Posterior concentration rates for empirical Bayes procedures with applications to Dirichlet process mixtures. [Bernoulli Journal](https://projecteuclid.org/journals/bernoulli/volume-24/issue-1/Posterior-concentration-rates-for-empirical-Bayes-procedures-with-applications-to/10.3150/16-BEJ872.full) 24(1): 231-256 (February 2018). 
+
+- [A13] S. Donnet, V. Rivoirard, J. Rousseau, C. Scricciolo. Posterior concentration rates for counting processes with Aalen multiplicative intensities. [Bayesian Analysis](https://projecteuclid.org/journals/bayesian-analysis/volume-12/issue-1/Posterior-Concentration-Rates-for-Counting-Processes-with-Aalen-Multiplicative-Intensities/10.1214/15-BA986.full) 12(1): 53-87 (March 2017). 
+
+- [A12] M. Capistran, A. Christen, S. Donnet. Bayesian Analysis of ODE’s : solver optimal accuracy and Bayes factors. [Journal of Uncertainty Quantification](https://epubs.siam.org/doi/pdf/10.1137/140976777), 4, 829-849. 
+
+-  [A11] S. Donnet, J. Rousseau, J. Bayesian Inference for Partially Observed Branching Processes. Bayesian Analysis Volume 11, Number 1 (2016), 151-190
+
+-  [A10] S. Donnet, Bartolo, R., Fernandes J.M., Cunha J.P., Prado, L. and Merchant, H. Monkeys time their movement pauses and not their movement kinematics during a synchronization-continuation rhythmic task Journal Of Neurophysiology, May 2014 ; 111(10), 2138
+
+-  [A9] S. Donnet, A. Samson. Using PMCMC in EM algorithm for stochastic mixed models : theoretical and practical issues Journal de la Société Françcaise de Statistique, 155, 49-72, 2014.
+
+- [A8] S. Donnet, A. Samson. A review on estimation of stochastic differential equations for pharmacokinetic/ pharmacodynamic models. Advanced Drug Delivery Reviews
+
+- [A7] I. Albert, S. Donnet, C. Guihenneuc, S. Low-Choy, K. Mengersen, J. Rousseau, Combining expert opinions in prior elicitation (with discussion). Bayesian Analysis, 7(3), 503-546 (2012)
+
+- [A6] S. Donnet, J.-M. Marin . An empirical Bayes procedure for the selection of Gaussian graphical models. Statistics and Computing, 22(5), 1113-1123 (2012)
+
+-  [A5] S. Donnet , J-L Foulley, A. Samson. Bayesian analysis of growth curves using mixed models defined by stochastic differential equations . Biometrics, 66(3) :733-741, (2010)
+
+- [A4] P. Ciuciu, T. Vincent, L. Risser, S. Donnet. A joint detection-estimation framework for analysing within-subject fMRI data. Journal de la Société Franéaise de Statistiques, Vol. 151, No 1 (2010)
+
+- [A3] S. Donnet, A. Samson. Parametric inference for mixed models defined by stochastic differential equations. ESAIM P&S, 12 :196-218, (2008)
+
+- [A2] S. Donnet, A. Samson. Estimation of parameters in missing data models defined by differential equations. J. Statist. Plann. Inference 137 (2007), no. 9, 2815–2831
+
+- [A1] S. Donnet, M. Lavielle, and J.-B. Poline. Are fMRI event related reponses constant across events ?. Neuroimage,Volume 31, Issue 3, 1 (July 2006), 1169 – 1176
+
+## Book chapters 
+
+
+ - [C1]  J. Aubert, P. Barbillon, S. Donnet, V.Miele. Chap Modèles à blocs latents pour la détection de structure
+dans les réseaux écologiques. To appear  at  ISTE.
+
+## Book reviews and discussions
+
+-  [B3] S. Donnet. Book review of “Stochastic Modelling for Systems Biology (second edition)” by Darren J. Wilkinson. CHANCE 25-4 (Décembre 2012)
+
+- [B2] S. Donnet. Book review of “Statistical Thinking in Epidemiology” by Yu-Kang Tu and Mark S. Gilthorpe. CHANCE 25-4 (Décembre 2012)
+
+- [B1] S. Donnet. Book review of “Monte Carlo Simulation for the Pharmaceutical Industry : Concepts, Algorithms, and Case Studies” by Mark Chang. International Statistical Review (Avril 2012)
+
+- [D1] S. Donnet, A. Samson. Discussion on “Parameter estimation for differential equations : a generalized smoothing approaché” (by Ramsay JO, Hooker G, Campbell D and Cao J), Journal of the Royal Statistical Society : Series B, 69(5) :741-796, (2007)
