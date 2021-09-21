@@ -13,15 +13,19 @@ navbar:
       - text: "Research interests"
         icon: fa-flask
         href: research.html
+      - text: "Collaborators"
+        href: collaborators.html
+        icon: fas fa-users
       - text: "Publications"
         href: publications.html
         icon: fa-file-text-o
       - text: "R packages"
-        icon: fa-r-project
+        icon: fab fa-r-project
         href: Rpackages.html
       - text: "Students"
         href: students.html
         icon: fa-graduation-cap 
+     
       
         
   - text: "Teaching"

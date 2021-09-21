@@ -11,7 +11,7 @@ output:
      before_body: extlogo.html
 ---
 
-
+<br>
 
 **Development of probabilistic models and statistical learning  methods for ecology and life sciences**.
 
@@ -23,11 +23,11 @@ output:
 
 - Models for complex interaction network data: multi-level, multiplex, multipartite ...
 
--  Models defined by ordinary and stochastic differential equations.
+- Models defined by ordinary and stochastic differential equations.
 
 - Bayesian statistics: elicitation of a priori distribution and combination of expert 
 
--  Bayesian parametric and nonparametric statistics for counting processes.
+- Bayesian parametric and nonparametric statistics for counting processes.
 Statistical Inference for Gaussian Graphical Models
 
 - Stochastic algorithms: MCMC, EM and stochastic versions, particule filters ...
@@ -43,7 +43,22 @@ Statistical Inference for Gaussian Graphical Models
 - Other Application fields : neuroscience, pharmacokinetics, food risk, EDF reliability, social networks
 
 
+<br> 
 
 ## Projects
 
+Currently I am involved in the following projects
 
+- Projet ANR [Econet](https://cmatias.perso.math.cnrs.fr/ANR_EcoNet.html). 
+  
+- Projet ANR [NGB](https://anr.fr/Project-ANR-17-CE32-0011).
+
+- Projet ANR [Pastodiv](https://anr.fr/Projet-ANR-19-CE32-0004) Pastoral practices and Domestic Animal Diversity. 
+      
+- GDR [Resodiv](https://resodiv.cnrs.fr/amp/le-gdr/direction/) 
+
+
+
+
+
+ 

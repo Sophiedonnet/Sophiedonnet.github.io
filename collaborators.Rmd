@@ -1,0 +1,26 @@
+---
+title: "Collaborators"
+output: 
+  html_document:
+   toc: false
+   logo: img/Logotype-INRAE.jpg
+   number_sections: false
+   highlight: tango
+   css: style.css
+   includes:
+     before_body: extlogo.html
+---
+
+ 
+
+Currently, my principle collaborators are
+
+   - **Networks** : Avner Bar-Hen, [Pierre Barbillon](https://www6.inrae.fr/mia-paris/Equipes/Membres/Pierre-Barbillon), Stéphane Robin, [Julien Chiquet](https://jchiquet.github.io/),  [Julie Aubert](https://www6.inrae.fr/mia-paris/Equipes/Membres/Julie-Aubert), [Vincent Miele](https://lbbe.univ-lyon1.fr/fr/annuaires-des-membres/miele-vincent)
+
+   - **Ecology** : [François Massol](https://spici.weebly.com/francois-massol.html), [Sonia Kefi](https://isem-evolution.fr/en/membre/kefi/) 
+
+   - **Sociology** : [Emmanuel Lazega](https://www.sciencespo.fr/cso/fr/chercheur/Emmanuel%20Lazega/952.html)
+
+   - **Bayesian statistics** : Séverine Bord, [Isabelle Albert](https://www6.inrae.fr/mia-paris_eng/Teams/Members/Isabelle-Albert),  [Eric Parent](https://www6.inrae.fr/mia-paris/Equipes/Membres/Eric-Parent)
+   
+   - **SHS**  [Vanesse Labeyrie](https://ur-green.cirad.fr/l-unite/les-membres-de-l-unite/vanesse-labeyrie) (CIRAD),  [Christine Raimond](https://www.prodig.cnrs.fr/christine-raimond/) (CNRS),  [Matthieu Salpeteur](http://www.paloc.fr/fr/annuaire/matthieu-salpeteur-6089) (IRD).
