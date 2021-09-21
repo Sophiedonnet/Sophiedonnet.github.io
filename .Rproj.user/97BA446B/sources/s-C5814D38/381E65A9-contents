@@ -365,10 +365,10 @@ $(document).ready(function () {
 
 <p><br></p>
 <p><img src="img/sophie_donnet_profile.jpg" alt="mpe" width = "280px" align="right"> </img></p>
-<p>I am a researcher at <a href="https://www.inrae.fr/">INRAE</a> in the unity <a href="https://www6.inrae.fr/mia-paris">MIA Paris</a>.</p>
+<p>I am a researcher at <a href="https://www.inrae.fr/">INRAE</a> @ <a href="https://www6.inrae.fr/mia-paris">MIA Paris</a>.</p>
 <p>Currently, I am the head of the team <a href="https://www6.inrae.fr/mia-paris/Equipes/SOLsTIS">SOLsTIS</a> (Statistical mOdelling and Learning for environnemenT and lIfe Sciences).</p>
 <p>Our unity is located at <a href="https://www.agroparistech.fr">AgroParisTech</a> in Paris for yet a few months (soon in Paris Saclay).</p>
-<p>I am specialized in the development of <strong>statistical learning methods for ecology and life sciences</strong> in general. I work with <a href="collaborators.html">people</a> from different background: statisticians, ecologists … You will find more details <a href="research.html">here</a>.</p>
+<p>I am specialized in the development of <strong>statistical learning methods for ecology and life sciences</strong> in general. More details <a href="research.html">here</a>. I work with <a href="collaborators.html">people from different backgrounds: statisticians, ecologists…</a></p>
 <p><br></p>
 <p><br></p>
 <div id="contact-information" class="section level2">

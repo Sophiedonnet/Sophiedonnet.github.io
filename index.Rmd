@@ -15,15 +15,15 @@ output:
 <img src="img/sophie_donnet_profile.jpg" alt="mpe" width = "280px" align="right"> </img>
 
   
-I am a researcher at  [INRAE](https://www.inrae.fr/) in the unity [MIA Paris](https://www6.inrae.fr/mia-paris). 
+I am a researcher at  [INRAE](https://www.inrae.fr/) @ [MIA Paris](https://www6.inrae.fr/mia-paris). 
 
 Currently, I am the head of the team [SOLsTIS](https://www6.inrae.fr/mia-paris/Equipes/SOLsTIS) (Statistical mOdelling and Learning for environnemenT and lIfe Sciences).  
 
 Our unity is located at [AgroParisTech](https://www.agroparistech.fr) in Paris for yet a few months (soon in Paris Saclay). 
 
 
-I am specialized in the development of **statistical learning methods for ecology and life sciences** in general. I work with [people](collaborators.html) from different background: statisticians, ecologists ...
-You will find more details [here](research.html).
+I am specialized in the development of **statistical learning methods for ecology and life sciences** in general.  More details [here](research.html). I work with [people from different backgrounds: statisticians, ecologists...](collaborators.html)
+
   
   
  
