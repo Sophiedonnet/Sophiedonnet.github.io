@@ -14,14 +14,14 @@ output:
 
 
 
-With my colleagues, I developped 2 <i class="fab fa-r-project"></i>  packages available on the CRAN and on <i class="fab fa-github"></i> GitHub. Both of them deal with statistical learning for network data. Please contact us for any questions or discussions. 
+With my colleagues, I developped 2 <i class="fab fa-r-project"></i>  packages available on the CRAN and on <i class="fab fa-github"></i> GitHub. Both of them deal with statistical learning for network data. *Please contact us for any questions or discussions*. 
 
 
 
 
- - GREMLIN :  S. Donnet, P. Barbillon. R-package for the statistical inference of multipartite network.
+ - **GREMLINS** :  S. Donnet, [P. Barbillon](https://www6.inrae.fr/mia-paris/Equipes/Membres/Pierre-Barbillon). R-package for the statistical inference of multipartite network.
 Available on [CRAN](https://cran.r-project.org/web/packages/GREMLINS/index.html) or [github](https ://github.com/Demiperimetre/GREMLINS)
 
- - sbm J. Chiquet, S. Donnet & P. Barbillon. R-package for Stochastic Blockmodels. Available  [github](https://github.com/GrossSBM/sbm)
+ - **sbm** : [J. Chiquet](https://jchiquet.github.io/), S. Donnet & [P. Barbillon](https://www6.inrae.fr/mia-paris/Equipes/Membres/Pierre-Barbillon). R-package for Stochastic Blockmodels. Available  [github](https://github.com/GrossSBM/sbm)
 or [CRAN](https ://cran.r-project.org/web/packages/sbm/index.html)
 
