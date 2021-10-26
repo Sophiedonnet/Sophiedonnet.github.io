@@ -18,11 +18,7 @@ output:
 
 ## Submitted papers
 
-
-  - [S4] *Coupling ecological network analysis with high-throughput sequencing-based
-surveys: lessons from the Next-Generation Biomonitoring project*, M. Dubart, P. Alonso, D. Barroso-Bergada, N. Becker, K. Bethune, D. A. Bohan, C. Boury, M. Cambon, E. Canard, E. Chancerel, J. Chiquet, P. David, N. de Manincor, S. Donnet, A. Duputié, B. Facon, E. Guichoux, T. Le Minh, S. Ortiz-Martínez, L. Piouceau, A. Sacco--Martret de Préville, M. Plantegenest, C. Poux, V. Ravigné,  S. Robin, M. Trillat, C. Vacher, C. Vernière, François Massol.  **Submitted to Applied Ecology Resources**
-
-  - [S3]  *Impact of the mesoscale structure of a bipartite ecological interaction network on its robustness through a probabilistic modeling*, S.-C. Chabert-Liddell, P. Barbillon, S. Donnet. **Minor revision** at Environmetrics [Arxiv]()
+  - [S3]  *Impact of the mesoscale structure of a bipartite ecological interaction network on its robustness through a probabilistic modeling*, S.-C. Chabert-Liddell, P. Barbillon, S. Donnet. **Minor revision** at Environmetrics [Arxiv](https://arxiv.org/abs/2106.06348)
 
  -  [S2] *Modelling digit preference in ecological count data: A Bayesian approach*.   M. Authier, I. Albert, D. Ba, S. Donnet, M. Genu,  E. Parent. **Major revision** at Journal of Agricultural, Biological, and Environmental Statistics
 
@@ -37,8 +33,8 @@ various temperature and relative humidity*.  P. Wongnak, S. Bord, S.  Donnet, T.
 ## Book chapters 
 
 
- - [C1]  J. Aubert, P. Barbillon, S. Donnet, V.Miele. Chap Modèles à blocs latents pour la détection de structure
-dans les réseaux écologiques. To appear  at  ISTE.
+ - [C1]  J. Aubert, P. Barbillon, S. Donnet, V.Miele. *Chap Modèles à blocs latents pour la détection de structure
+dans les réseaux écologiques/Statistical Models for Hidden Variables in Ecology*. Soon available @   [ISTE](www.iste.co.uk/peyrard/ecology.zip).
 
 
 <br> 
@@ -46,19 +42,22 @@ dans les réseaux écologiques. To appear  at  ISTE.
 
 ##  Published or accepted articles
 
-  - [A20]  Accelerating Bayesian estimation for network Poisson models using frequentist variational estimates. Sophie Donnet, Stéphane Robin.  [JRSSC, 16 April 2021](https://rss.onlinelibrary.wiley.com/doi/10.1111/rssc.12489).   [[Arxiv]](https://arxiv.org/abs/1907.09771).
+  - [A21]  *Coupling ecological network analysis with high-throughput sequencing-based
+surveys: lessons from the Next-Generation Biomonitoring project*, M. Dubart, P. Alonso, D. Barroso-Bergada, N. Becker, K. Bethune, D. A. Bohan, C. Boury, M. Cambon, E. Canard, E. Chancerel, J. Chiquet, P. David, N. de Manincor, S. Donnet, A. Duputié, B. Facon, E. Guichoux, T. Le Minh, S. Ortiz-Martínez, L. Piouceau, A. Sacco--Martret de Préville, M. Plantegenest, C. Poux, V. Ravigné,  S. Robin, M. Trillat, C. Vacher, C. Vernière, François Massol.  **Accepted by  Applied Ecology Resources**
+
+  - [A20]  *Accelerating Bayesian estimation for network Poisson models using frequentist variational estimates*. Sophie Donnet, Stéphane Robin.  [JRSSC, 16 April 2021](https://rss.onlinelibrary.wiley.com/doi/10.1111/rssc.12489).   [[Arxiv]](https://arxiv.org/abs/1907.09771).
   
- - [A19]  A Stochastic Block Model for Multilevel Networks: Application to the Sociology of Organisations. Saint-Clair Chabert-Liddell, Pierre Barbillon, Sophie Donnet & Emmanuel Lazega  [Computational Statistics and Data Analysis, Volume 158, june 2021](https://www.sciencedirect.com/science/article/pii/S016794732100013X?via%3Dihub).  [[Arxiv]](https://arxiv.org/abs/1910.10512).
+ - [A19]  *A Stochastic Block Model for Multilevel Networks: Application to the Sociology of Organisations*. Saint-Clair Chabert-Liddell, Pierre Barbillon, Sophie Donnet & Emmanuel Lazega  [Computational Statistics and Data Analysis, Volume 158, june 2021](https://www.sciencedirect.com/science/article/pii/S016794732100013X?via%3Dihub).  [[Arxiv]](https://arxiv.org/abs/1910.10512).
  
- -  [A18] Block models for multipartite networks. Applications in ecology and  ethnobiology. A. Bar-Hen, P. Barbillon & S. Donnet.  [Statistical Modelling, First Published December 18, 2020](https://journals.sagepub.com/doi/abs/10.1177/1471082X20963254).   [[Arxiv]](https://arxiv.org/abs/1807.10138) 
+ -  [A18] *Block models for multipartite networks. Applications in ecology and  ethnobiology*. A. Bar-Hen, P. Barbillon & S. Donnet.  [Statistical Modelling, First Published December 18, 2020](https://journals.sagepub.com/doi/abs/10.1177/1471082X20963254).   [[Arxiv]](https://arxiv.org/abs/1807.10138) 
 
-  -  [A17] S. Donnet, V. Rivoirard & J. Rousseau. Nonparametric Bayesian estimation of multivariate Hawkes processes.  [Annals of Statistics, 2020, Vol. 48, No. 5, 2698-2727](https://projecteuclid.org/download/pdfview_1/euclid.aos/1600480929). [[Arxiv]](https://arxiv.org/abs/1802.05975)
+  -  [A17] *Nonparametric Bayesian estimation of multivariate Hawkes processes.* S. Donnet, V. Rivoirard & J. Rousseau.   [Annals of Statistics, 2020, Vol. 48, No. 5, 2698-2727](https://projecteuclid.org/download/pdfview_1/euclid.aos/1600480929). [[Arxiv]](https://arxiv.org/abs/1802.05975)
  
- -  [A16] E. Lazega, A. Bar-Hen, P. Barbillon, S. Donnet. Effects of competition on collective learning in advice networks. [Social Networks, Volume 47, October 2016, Pages 1–14](https://www.sciencedirect.com/science/article/pii/S0378873316301216) [<i class="fas fa-file-download"></i> pdf](publi/A16_social_networks2016.pdf)
+ -  [A16] *Effects of competition on collective learning in advice networks*. E. Lazega, A. Bar-Hen, P. Barbillon, S. Donnet.  [Social Networks, Volume 47, October 2016, Pages 1–14](https://www.sciencedirect.com/science/article/pii/S0378873316301216) [<i class="fas fa-file-download"></i> pdf](publi/A16_social_networks2016.pdf)
 
-- [A15]  P. Barbillon, S. Donnet, E. Lazega, A. Bar-Hen. Stochastic block models for multiplex networks: an application ot multilevel network of researchers. [JRSSA. Volume 180, Issue1, January 2017, Pages 295-314](https://rss.onlinelibrary.wiley.com/doi/full/10.1111/rssa.12193) [[Arxiv]](https://arxiv.org/abs/1501.06444)
+- [A15]  *Stochastic block models for multiplex networks: an application ot multilevel network of researchers*. P. Barbillon, S. Donnet, E. Lazega, A. Bar-Hen. [JRSSA. Volume 180, Issue1, January 2017, Pages 295-314](https://rss.onlinelibrary.wiley.com/doi/full/10.1111/rssa.12193) [[Arxiv]](https://arxiv.org/abs/1501.06444)
 
-- [A14]  S. Donnet, V. Rivoirard, J. Rousseau, C. Scricciolo.  Posterior concentration rates for empirical Bayes procedures with applications to Dirichlet process mixtures. [Bernoulli Journal 24(1): 231-256 (February 2018)](https://projecteuclid.org/journals/bernoulli/volume-24/issue-1/Posterior-concentration-rates-for-empirical-Bayes-procedures-with-applications-to/10.3150/16-BEJ872.full). 
+- [A14] * Posterior concentration rates for empirical Bayes procedures with applications to Dirichlet process mixtures.*  S. Donnet, V. Rivoirard, J. Rousseau, C. Scricciolo.  [Bernoulli Journal 24(1): 231-256 (February 2018)](https://projecteuclid.org/journals/bernoulli/volume-24/issue-1/Posterior-concentration-rates-for-empirical-Bayes-procedures-with-applications-to/10.3150/16-BEJ872.full). 
 
 - [A13] S. Donnet, V. Rivoirard, J. Rousseau, C. Scricciolo. Posterior concentration rates for counting processes with Aalen multiplicative intensities. [Bayesian Analysis 12(1): 53-87 (March 2017)](https://projecteuclid.org/journals/bayesian-analysis/volume-12/issue-1/Posterior-Concentration-Rates-for-Counting-Processes-with-Aalen-Multiplicative-Intensities/10.1214/15-BA986.full). 
 
