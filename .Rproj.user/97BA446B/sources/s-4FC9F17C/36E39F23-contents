@@ -18,16 +18,10 @@ output:
 
 ## Submitted papers
 
-  - [S3]  *Impact of the mesoscale structure of a bipartite ecological interaction network on its robustness through a probabilistic modeling*, S.-C. Chabert-Liddell, P. Barbillon, S. Donnet. **Minor revision** at Environmetrics [Arxiv](https://arxiv.org/abs/2106.06348)
 
- -  [S2] *Modelling digit preference in ecological count data: A Bayesian approach*.   M. Authier, I. Albert, D. Ba, S. Donnet, M. Genu,  E. Parent. **Major revision** at Journal of Agricultural, Biological, and Environmental Statistics
+ -  [S1] *Modelling digit preference in ecological count data: A Bayesian approach*.   M. Authier, I. Albert, D. Ba, S. Donnet, M. Genu,  E. Parent. **Major revision** at Journal of Agricultural, Biological, and Environmental Statistics
 
- - [S1] *Expert elicitation and hierarchical Bayesian approach for parametric
-survival models: An application to Ixodes ricinus ticks exposed to
-various temperature and relative humidity*.  P. Wongnak, S. Bord, S.  Donnet, T. Hoch, F. Beugnet , K. Chalvet-Monfray. 
-**Major revision** at Ecological Modelling
-
-
+ 
 <br> 
 
 ## Book chapters 
@@ -41,6 +35,12 @@ dans les réseaux écologiques/Statistical Models for Hidden Variables in Ecolog
 
 
 ##  Published or accepted articles
+
+  - [A23] *Expert elicitation and hierarchical Bayesian approach for parametric
+survival models: An application to Ixodes ricinus ticks exposed to
+various temperature and relative humidity*.  P. Wongnak, S. Bord, S.  Donnet, T. Hoch, F. Beugnet , K. Chalvet-Monfray.  [Ecological Modelling, Volume 464, February 2022](https://www.sciencedirect.com/science/article/pii/S0304380021003653)
+
+   - [A22]  *Impact of the mesoscale structure of a bipartite ecological interaction network on its robustness through a probabilistic modeling*, S.-C. Chabert-Liddell, P. Barbillon, S. Donnet. Accepted by Environmetrics [Arxiv](https://arxiv.org/abs/2106.06348)
 
   - [A21]  *Coupling ecological network analysis with high-throughput sequencing-based
 surveys: lessons from the Next-Generation Biomonitoring project*, M. Dubart, P. Alonso, D. Barroso-Bergada, N. Becker, K. Bethune, D. A. Bohan, C. Boury, M. Cambon, E. Canard, E. Chancerel, J. Chiquet, P. David, N. de Manincor, S. Donnet, A. Duputié, B. Facon, E. Guichoux, T. Le Minh, S. Ortiz-Martínez, L. Piouceau, A. Sacco--Martret de Préville, M. Plantegenest, C. Poux, V. Ravigné,  S. Robin, M. Trillat, C. Vacher, C. Vernière, François Massol.  **Accepted by  Applied Ecology Resources**
