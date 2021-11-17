@@ -38,6 +38,8 @@ navbar:
         href: bayesian_stat.html
       - text: "Linear model"
         href: linearmodel.html
+      - text: "Network data"  
+        href: network.html
       
       
              
