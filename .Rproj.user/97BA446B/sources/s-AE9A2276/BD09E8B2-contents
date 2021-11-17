@@ -1,0 +1,38 @@
+---
+title: "Probabilistic models for (ecological) networks"
+output: 
+  html_document:
+   toc: false
+   logo: img/Logotype-INRAE.jpg
+   number_sections: false
+   highlight: tango
+   css: style.css
+   includes:
+     before_body: extlogo.html
+---
+
+
+<br> 
+
+<br> 
+
+You will find here the material I use for my 3 hours  class on **probabilistic models for network analysis**. 
+
+<br> 
+
+<br> 
+
+  
+<img src="Networks/Tree-Fungus.jpg" alt="Tree-fungus 2021" width = "240px" align="right"> </img>
+
+  * Here are the slides of the course. [<i class="fa fa-download"></i>](Networks/slides_BlockModels.pdf)
+  
+  * The R-package I use is [`sbm`](https://cran.r-project.org/web/packages/sbm/index.html) 
+  
+  * The tuto (Rmd) is available here [<i class="fa fa-download"></i>](Networks/Tuto_sbm.zip)
+  
+  * For udpate see that [github repo](https://github.com/Sophiedonnet/IntroductionToBlockModels)
+  
+
+    
+    

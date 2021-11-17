@@ -1,0 +1,33 @@
+---
+title: "Projects"
+output: 
+  html_document:
+   toc: false
+   logo: img/Logotype-INRAE.jpg
+   number_sections: false
+   highlight: tango
+   css: style.css
+   includes:
+     before_body: extlogo.html
+---
+
+
+
+
+Currently I am involved in the following projects
+
+- Projet ANR [Econet](https://cmatias.perso.math.cnrs.fr/ANR_EcoNet.html). 
+  
+- Projet ANR [NGB](https://anr.fr/Project-ANR-17-CE32-0011).
+
+- Projet ANR [Pastodiv](https://anr.fr/Projet-ANR-19-CE32-0004) Pastoral practices and Domestic Animal Diversity. 
+      
+- GDR [Resodiv](https://resodiv.cnrs.fr/amp/le-gdr/direction/) 
+
+
+I am also very proud to belong to the group [State Of The R](https://stateofther.github.io)
+
+<img src="img/statOfTheR2021.jpeg" alt="Roscoff 2021" width = "240px" align="middle"> </img>
+ 
+ [FinistR 2021](https://stateofther.github.io/finistR2021/)
+ 
