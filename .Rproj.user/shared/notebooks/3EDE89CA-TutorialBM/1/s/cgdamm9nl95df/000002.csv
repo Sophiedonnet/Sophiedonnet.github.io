@@ -1,0 +1,3 @@
+"0","listMemberships <- list(binarySBM = mySimpleSBM$memberships)"
+"0","listMemberships$weightSBM <- mySimpleSBMPoisson$memberships"
+"0","P <- plotAlluvial(listMemberships)"

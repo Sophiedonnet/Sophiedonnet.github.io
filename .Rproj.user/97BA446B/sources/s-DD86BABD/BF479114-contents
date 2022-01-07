@@ -1,0 +1,39 @@
+---
+title: "Latent Variable Models for ecology and biology"
+output: 
+  html_document:
+   toc: false
+   logo: img/Logotype-INRAE.jpg
+   number_sections: false
+   highlight: tango
+   css: style.css
+   includes:
+     before_body: extlogo.html
+---
+
+
+You will find here the material I use for my **Latent Variable Models for ecology and biology** Class  in [Master 2  *Mathématiques pour les Sciences du Vivant*](https://sites.google.com/view/m2-msv/) of [University Paris Saclay](https://www.universite-paris-saclay.fr/en/education/master/mathematics-and-applications/m2-mathematiques-pour-les-sciences-du-vivant). 
+
+<img src="img/HMM.png" alt="mpe" width = "280px" align="right"> </img>
+
+
+  * Main document [<i class="fa fa-download"></i>]()
+  * Slides of the course
+    * Chap 1 : Introduction [<i class="fa fa-download"></i>]()
+    * Chap 1 : mixture models [<i class="fa fa-download"></i>]()
+    * Chap 2 : Hidden Markov Models  [<i class="fa fa-download"></i>]()
+    * Chap 3 : Stochastic Block Models [<i class="fa fa-download"></i>]( )
+    * Chap 4 : Bayesien inference of Latent variable models [<i class="fa fa-download"></i>]( )
+
+   
+
+    
+In 2022, the class will take place at Agroparistech, 16 rue CLaude Bernard, Paris
+
+  * 20 janv 2022: Agroparistech, CB6 
+  * 27 janv 2022: Agroparistech, CB6 
+  * 10 fév 2022:  Agroparistech, CB5 
+  * 17 fev 2022:  Agroparistech, CB6 
+  * 3 mars 2022: Agroparistech, CB6
+  * 10 mars 2022: Agroparistech, CB6
+

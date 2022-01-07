@@ -1,0 +1,1 @@
+"0","plot(mySimpleSBM, type = ""expected"", dimLabels = list(row = 'tree', col = 'tree'),estimOptions=list(legend=TRUE))"

@@ -1,0 +1,63 @@
+
+if (Sys.info()[[4]] == "sophie-Latitude-5310"){
+  setwd("~/Dropbox/WORK_DROPBOX/RECHERCHE_en_cours/Vanesse_Christine/Programmes/")
+}
+#----------------- Packages nécessaires
+library(dplyr)
+library(ggplot2)
+library(tidyr)
+library(fastDummies)
+library(sbm)
+# ---------------- Les données
+data_NCP_seedVF <- read.csv("data/data_NCP_seedVF.csv", sep=";")
+data1 <- data_NCP_seedVF
+is.data.frame(data1)
+names(data1)
+
+#------------ replace 2 by  1
+where <- c(which(grepl( "_m" , colnames(data1))),which(grepl( "_w" , colnames(data1))),which(colnames(data1) == 'unknown'))
+for (l in where){
+  cl <- data1[,l]
+  cl[cl ==2]  = 1
+  data1[,l] <- cl
+}
+
+#create categories_sources 3
+data1$Categories_sources_level_1
+data1$Categories_sources_level_2
+data1$Categories_sources_level_3 <- data1$Categories_sources_level_2
+data1$Categories_sources_level_3[data1$Categories_sources_level_1=='Legacy'] = 'Legacy'
+
+#----------------------- Hot coding for Sources
+#categories_sources  = 'Categories_sources_level_2'
+#categories_sources  = 'Categories_sources_level_1'
+#categories_sources  = 'Categories_sources_level_3'
+
+
+for (categories_sources in c('Categories_sources_level_2', 'Categories_sources_level_1','Categories_sources_level_3')){
+  data1_s <- data1;
+  Sources <- as.factor(data1[[which(names(data1_s) == categories_sources)]])
+  levels(Sources) <- stringr::str_to_title(substring(levels(Sources), 1, 6)) # comment this line if long sources
+  data1_s$Sources <- Sources
+  data1_s <- dummy_cols(data1_s,select_columns = "Sources",remove_selected_columns = TRUE)
+
+
+
+  #---------------- Deal with double sources
+  data2 <- data1_s
+  wDS <- which(data1_s$doubleSource ==1)
+  col_to_concat <- which(grepl( "Sources" , names( data1_s ) ))
+  lines_to_rm  <- c()
+  for (i in wDS){
+   lines_i <- which(data1$key== data1_s$key[i])
+   lines_to_rm <- c(lines_to_rm,lines_i[-1])
+    data2[lines_i[1],col_to_concat] <- (colSums(data2[lines_i,col_to_concat]) >1 )*1
+  }
+  data2 <- data2[-lines_to_rm,]
+  data2 <- data2 %>% select(-c(doubleSource,key,seed_source,Categories_sources_level_1,Categories_sources_level_2, Categories_sources_level_3,seedlotID,spp_local))
+  save(data2, file=paste('data/tableau_',categories_sources,'.Rda',sep=''))
+  save(data2, file=paste('data/tableau_',categories_sources,'_longSources.Rda',sep=''))
+}
+
+dim(data2)
+names(data2)

@@ -1,0 +1,133 @@
+---
+title: "Analyse des statrégies d'usages et d'approvisionnement"
+author: "Sophie"
+date: "20/11/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+##0.  Packages nécéssaires
+les packages nécéssaires sont
+```{r packges, message=FALSE, warning=FALSE}
+library(dplyr)
+library(ggplot2)
+library(tidyr)
+library(fastDummies)
+```
+
+De plus on utilise `sbm` qui doit être utilisé dans sa version en développement. 
+
+```{r sbm}
+library(sbm)
+``` 
+Pour l'installer 
+```{r install sbm, eval = FALSE, echo = TRUE}
+library(devtools)
+devtools::install_github('Demiperimetre/GREMLINS')
+devtools::install_github('GrossSBM/sbm',ref = 'multipartite')
+``` 
+
+##1. Les données
+
+On travaille un peu les données pour avoir une matrice  avec en ligne les ménages/variétés et en colonnes la façon dont ils l'utilisent et s'approvisionne. 
+```{r data }
+
+# ---------------- Les données
+data_NCP_seedVF <- read.csv("data/data_NCP_seedVF.csv", sep=";")
+data1 <- data_NCP_seedVF
+#is.data.frame(data1)
+#names(data1)
+
+#----------------------- Hot coding for Sources
+categories_sources  = 'Categories_sources_level_2'
+Sources <- as.factor(data1[[which(names(data1) == categories_sources)]])
+levels(Sources) <- stringr::str_to_title(substring(levels(Sources), 1, 6))
+data1$Sources <- Sources
+data1 <- dummy_cols(data1,select_columns = "Sources",remove_selected_columns = TRUE)
+
+
+#---------------- Deal with double sources
+data2 <- data1
+wDS <- which(data1$doubleSource ==1)
+col_to_concat <- which(grepl( "Sources" , names( data1 ) ))
+lines_to_rm  <- c()
+for (i in wDS){
+  lines_i <- which(data1$key== data1$key[i])
+  lines_to_rm <- c(lines_to_rm,lines_i[-1])
+  data2[lines_i[1],col_to_concat] <- (colSums(data2[lines_i,col_to_concat]) >1 )*1
+}
+data2 <- data2[-lines_to_rm,]
+``` 
+
+
+##2. Analyse des stratégies usage/approvisionnement par espèces
+
+On enlève les colonnes inutiles et on somme sur l'ensemble des ménages. On obtient une matrice variétés/ sources et une matrice variétés/usage. 
+
+```{r data3 }
+#------------------- remove unused colums
+data3 <- data2 %>% select(-c(doubleSource,key,ego_gender,row_id,seed_source,Categories_sources_level_1,Categories_sources_level_2,seedlotID,spp_local))
+data3 <- data3 %>% group_by(vty_local) %>% summarize_if(is.numeric,sum,na.rm = TRUE)
+``` 
+
+On peut alors afficher les 2 matrices côte à côté. On utilise le package `sbm` pour cela. Il faudra ajouter les noms d'espèces etc... dans le graphe pour que ce soit facilement lisible. 
+
+```{r plot data3 }
+colSources <- which(grepl( "Sources" , names( data3 ) ))
+matSources <- as.matrix(data3[,colSources])
+rownames(matSources) <- data3$vty_local
+matUsages <- as.matrix(data3[,-c(1,colSources)])
+rownames(matUsages) <- data3$vty_local
+netSources <- defineSBM(matSources,
+  model = "poisson",
+  type="bipartite",dimLabels = list(row = "vty", col = "Sources"),
+  )
+netUsages <- defineSBM(matUsages, model = "poisson",
+                        type="bipartite",dimLabels = list(row = "vty", col = "Usages"))
+plotMyMultipartiteMatrix(list(netUsages,netSources),plotOptions = list(legend=TRUE))
+``` 
+
+On applique ensuite la méthode  des blocs pour multipartites
+
+```{r MBM 1, eval  = FALSE, echo = TRUE }
+estimMBM <- estimateMultipartiteSBM(list(netUsages,netSources))
+#save(estimMBM,file='data/resMBMUsagesSources.Rdata')
+``` 
+```{r load MBM 1, eval  = TRUE,echo = FALSE }
+load('data/resMBMUsagesSources.Rdata')
+``` 
+
+On sélectionne  `r estimMBM$nbBlocks[1]` blocs de variétés,  `r estimMBM$nbBlocks[3]`  blocs d'approvisionnement et  `r estimMBM$nbBlocks[2]`  blocs d'usages.
+
+On peut alors afficher la matrice réordonnée.
+
+
+```{r plot MBM 1  }
+plot(estimMBM)
+``` 
+
+Les blocs d'usages sont les suivants:
+
+```{r blocs usages MBM 1  }
+#------------ clusters Usages
+lapply(1:estimMBM$nbBlocks[2],function(k){names(which(estimMBM$memberships$Usages==k))})
+``` 
+
+Les blocs de variétés  sont les suivants:
+
+```{r blocs variétés MBM 1  }
+#------------ clusters  variétés
+lapply(1:estimMBM$nbBlocks[1],function(k){names(which(estimMBM$memberships$vty==k))})
+``` 
+
+Les blocs de sources sont les suivants:
+
+```{r blocs sources MBM 1  }
+#------------ clusters Sources
+lapply(1:estimMBM$nbBlocks[3],function(k){names(which(estimMBM$memberships$Usages==k))})
+```
+
+

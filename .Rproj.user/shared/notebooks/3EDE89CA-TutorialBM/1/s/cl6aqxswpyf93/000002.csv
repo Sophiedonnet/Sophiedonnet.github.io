@@ -1,0 +1,55 @@
+"0","class(mySimpleSBMPoisson)"
+"1","[1]"
+"1"," ""SimpleSBM_fit"""
+"1"," ""SimpleSBM""    "
+"1"," ""SBM""          "
+"1"," ""R6""           "
+"1","
+"
+"0","mySimpleSBMPoisson"
+"1","Fit of a Simple Stochastic Block Model"
+"1"," "
+"1","--"
+"1"," "
+"1","poisson"
+"1"," "
+"1","variant
+"
+"1","=====================================================================
+"
+"1","Dimension = ("
+"1"," "
+"1","51"
+"1"," "
+"1",") - ("
+"1"," "
+"1","6"
+"1"," "
+"1",") blocks and"
+"1"," "
+"1","no"
+"1"," "
+"1","covariate(s).
+"
+"1","=====================================================================
+"
+"1","* Useful fields 
+"
+"1","  $nbNodes, $modelName, $dimLabels, $nbBlocks, $nbCovariates, $nbDyads
+"
+"1","  $blockProp, $connectParam, $covarParam, $covarList, $covarEffect 
+"
+"1","  $expectation, $indMemberships, $memberships 
+"
+"1","* R6 and S3 methods 
+"
+"1","  $rNetwork, $rMemberships, $rEdges, plot, print, coef 
+"
+"1","* Additional fields
+"
+"1","  $probMemberships, $loglik, $ICL, $storedModels, 
+"
+"1","* Additional methods 
+"
+"1","  predict, fitted, $setModel, $reorder 
+"

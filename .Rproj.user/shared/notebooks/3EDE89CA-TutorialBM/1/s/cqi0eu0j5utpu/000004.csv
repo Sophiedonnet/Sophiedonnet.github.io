@@ -1,0 +1,2 @@
+"0","tree_tree <- fungusTreeNetwork$tree_tree"
+"0","plotMyMatrix(tree_tree, dimLabels = list(row = 'tree', col = 'tree'))"

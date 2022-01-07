@@ -1,0 +1,228 @@
+rm(list=ls())
+#----------------------------------------------------
+#----------------------------------------------------
+if (Sys.info()[[4]] == "sophie-Latitude-5310"){
+  setwd("~/Dropbox/WORK_DROPBOX/RECHERCHE_en_cours/Vanesse_Christine/Programmes")
+}
+
+#----------------- Packages nécessaires
+library(tidyverse)
+library(sbm)
+library(tools)
+library(stringr)
+#------------- Options estimation
+estim =  TRUE
+nbBlocksRange <-  list(Menages = 2:5, Sources = 1:4,Motivations = 1:4)
+estimOptions = list(nbBlocksRange = nbBlocksRange,initBM = TRUE)
+
+#------------- Options plots
+title = TRUE
+plotOptions = list(legend=TRUE,nodeNames = TRUE)
+plotOptions$legend = TRUE
+plotOptions$legendPosition = 'bottom'
+plotOptions$line.width = 1
+seq_models <- c('bernoulli','poisson')
+
+
+for (model in seq_models){
+
+  for (categories_sources in c('Categories_sources_level_1','Categories_sources_level_2','Categories_sources_level_3')){
+
+
+    #------------------------------
+    name_model <- paste(model,sep='')
+    where_plot <- paste0('plots2/Menages_Sources_Motivations/',categories_sources,'/MenSM_')
+    where_res <- paste0('res2/Menages_Sources_Motivations/MBM/',categories_sources,'/MenSM_')
+
+
+    #----------------------------------
+
+    load(file = paste('data/tableau_',categories_sources,'_corrected.Rda',sep=''))
+    list_spe <- c('AllSpecies',levels(as.factor(data2$spp_french)))
+
+    #--------------- data all
+
+
+    for (sp in list_spe) {
+
+      #----------------------------- PRINT
+      print("###################################################")
+      print( str_to_title(paste(name_model,categories_sources,sp,sep='. ')))
+
+      #------------------------- DATA
+      if (sp != 'AllSpecies'){data3 <-  data2  %>% filter(spp_french==sp)}else{data3 <- data2 }
+
+      data_foyer <- data3 %>% group_by(HouseholdID) %>% summarize_if(is.numeric,sum,na.rm = TRUE)
+      colSources <- which(grepl( "Sources" , names( data_foyer) ))
+      matSources <- as.matrix(data_foyer[,colSources])
+      rownames(matSources) <- data_foyer$HouseholdID
+      colnames(matSources) <- sapply(colnames(matSources),function(u){substr(u, 9, nchar(u))})
+
+      matUsages <- as.matrix(data_foyer[,-c(1,2,colSources)])
+      rownames(matUsages) <- data_foyer$HouseholdID
+      if (model == 'bernoulli'){
+        matSources <- (matSources>0)*1
+        matUsages <- (matUsages>0)*1
+      }
+      netSources <- defineSBM(matSources,
+                              model = model,
+                              type="bipartite",dimLabels = c(row = "Menages", col = "Sources"),
+      )
+      netUsages <- defineSBM(matUsages, model = model,
+                             type="bipartite",dimLabels = c(row = "Menages", col = "Motivations"))
+
+      listNet <- list(netSources,netUsages)
+      #-----------------------------------------------------
+      #------------------- plot data  ----------------------
+      #-----------------------------------------------------
+      if (title){
+        title_data <-  str_to_title(paste(sp,model,sep='. '))
+        plotOptions$title <- title_data
+      }
+      filename_plot_data <- paste(where_plot,sp,'_',model,'.png',sep = '')
+
+      g <- plotMyMultipartiteMatrix(listNet,plotOptions = plotOptions)
+      ggsave(file =filename_plot_data,width = 20, height = 20, units = "cm")
+
+      #-----------------------------------------------------
+      #-------------------- INFERENCE ----------------------
+      #-----------------------------------------------------
+      file_res <- paste(where_res,'resMBM_',model,'_',sp,'.Rdata',sep='')
+      if (estim){
+        estimMBM_foyer <- estimateMultipartiteSBM(listNet,estimOptions = estimOptions)
+        save(listNet, estimMBM_foyer,file = file_res)
+      }else{
+        load(file_res)
+      }
+      #
+      #-----------------------------------------------------
+      #------------- plot results
+      #-----------------------------------------------------
+      if(title){
+        title_org <- paste(title_data,'. Organized',sep='')
+        plotOptions$title <- title_org}
+      filename_plot_Org <- paste(file_path_sans_ext(filename_plot_data),'_organized.png',sep='')
+
+      g <- plot(estimMBM_foyer,plotOptions = plotOptions)
+      ggsave(filename_plot_Org,width = 20, height = 20, units = "cm")
+
+    }
+  }
+}
+
+
+########################################################################
+############################## FOR every species at the same time
+########################################################################
+
+######################################################################
+######################"" Every species at the same time by households
+for (model in seq_models){
+
+  for (categories_sources in c('Categories_sources_level_1','Categories_sources_level_2','Categories_sources_level_3')){
+
+
+    #------------------------------
+    name_model <- paste(model,sep='')
+    where_plot <- paste0('plots2/Menages_Sources_Motivations/',categories_sources,'/MenSM_')
+    where_res <- paste0('res2/Menages_Sources_Motivations/MBM/',categories_sources,'/MenSM_')
+
+    print("###################################################")
+    print( str_to_title(paste(name_model,categories_sources,'Every Species',sep='. ')))
+
+    #--------------- DATA
+    load(file = paste('data/tableau_',categories_sources,'_corrected.Rda',sep=''))
+    list_spe <- c(levels(as.factor(data2$spp_french)))
+    list_mat_sources_motivations <- vector(mode = "list", length = length(list_spe)*2)
+    ind_sp <- 0
+    for (sp in list_spe){
+      ind_sp <- ind_sp + 1
+      data3 <-  data2  %>% filter(spp_french==sp)
+      data_lots <- data3
+      data_lots <- data_lots %>%replace(is.na(.), 0)
+      colSources <- which(grepl( "Sources" , names( data_lots) ))
+      matSources <- data_lots[,colSources]
+      colnames(matSources) <- sapply(colnames(matSources),function(u){substr(u, 9, nchar(u))})
+      matMotivations <- data_lots[,-c(1:5,colSources)]
+
+      matMotivations$HouseholdID <- data_lots$HouseholdID
+      matSources$HouseholdID <- data_lots$HouseholdID
+      matSources <- matSources %>% group_by(HouseholdID) %>% summarize_if(is.numeric,sum,na.rm = TRUE)
+      matMotivations <- matMotivations %>% group_by(HouseholdID) %>% summarize_if(is.numeric,sum,na.rm = TRUE)
+      list_mat_sources_motivations[[2*ind_sp-1]] <- matSources
+      list_mat_sources_motivations[[2*ind_sp]] <- matMotivations
+    }
+
+    list_all_menages<- unique(data2$HouseholdID)
+    list_mat <-  vector(mode = "list", length = 2*length(list_spe))
+    for (ind_sp in 1:(2*length(list_spe))){
+      l_p <- list_mat_sources_motivations[[ind_sp]]
+
+      u <- list_all_menages[! list_all_menages %in% l_p$HouseholdID]
+      add_mat_sp <- as.data.frame(matrix(0,length(u),ncol(l_p)))
+      names(add_mat_sp) <- names(l_p)
+      add_mat_sp$HouseholdID <- u
+      big_mat_sp <- rbind(l_p,add_mat_sp)
+      big_mat_sp <- big_mat_sp[order(big_mat_sp$HouseholdID),]
+      big_mat_sp <- big_mat_sp %>%remove_rownames %>% column_to_rownames(var="HouseholdID")
+      #u <- which(colSums(big_mat_sp)==0)
+      #if (length(u)>0){big_mat_sp <- as.matrix(big_mat_sp[-u])}
+      if (model == 'bernoulli'){big_mat_sp <- (big_mat_sp>0)*1}
+      sp <- list_spe[ceiling(ind_sp/2)]
+      colnames(big_mat_sp) <- paste(colnames(big_mat_sp),sp,sep='. ')
+
+
+      obj <- paste0(list_spe[ceiling(ind_sp/2)], ifelse(ind_sp %% 2 == 0,'. Motivations','. Sources'))
+      list_mat[[ind_sp]] <-defineSBM(as.matrix(big_mat_sp),
+                                     model=model,
+                                     type='bipartite',
+                                     directed=FALSE,
+                                     dimLabels = c('Menages',obj))
+    }
+    names(list_mat)<- c(t(outer(list_spe,c('. Sources','. Motivations'),paste0)))
+
+
+    #-----------------------------------------------------
+    #------------------- plot data  ----------------------
+    #-----------------------------------------------------
+    if (title){
+      title_data <-  str_to_title(paste('Every species',model,sep='. '))
+      plotOptions$title <- title_data
+    }
+    filename_plot_data <- paste(where_plot,'everyspecies','_',model,'.png',sep = '')
+    plotOptions$nodeNames = TRUE
+
+    g <- plotMyMultipartiteMatrix(listSBM = list_mat,plotOptions = plotOptions)
+    ggsave(file =filename_plot_data,width = 40, height = 40, units = "cm")
+
+    #-----------------------------------------------------
+    #-------------------- INFERENCE ----------------------
+    #-----------------------------------------------------
+    file_res <- paste(where_res,'resMBM_',model,'_','everyspecies','.Rdata',sep='')
+    if (estim){
+
+      u <- unique(unlist(lapply(list_mat,function(net){net$dimLabels}),use.names = FALSE))
+      nbBlocksRange <-  lapply(u,function(u){1:4}); names(nbBlocksRange) <-u
+      nbBlocksRange$Menages <- c(2:5)
+      estimOptions = list(nbBlocksRange = nbBlocksRange,initBM = FALSE,verbosity = 1,maxiterVEM = 200, maxiterVE = 200)
+      estimMSBM <- estimateMultipartiteSBM(list_mat,estimOptions =estimOptions )
+      save(list_mat, estimMSBM,file = file_res)
+    }else{
+      load(file_res)
+    }
+    #
+    #-----------------------------------------------------
+    #------------- plot results
+    #-----------------------------------------------------
+    if(title){
+      title_org <- paste(title_data,'. Organized',sep='')
+      plotOptions$title <- title_org
+      }
+    filename_plot_Org <- paste(file_path_sans_ext(filename_plot_data),'_organized.png',sep='')
+    plotOptions$nodeNames = TRUE
+    g <- plot(estimMSBM,plotOptions = plotOptions)
+    ggsave(filename_plot_Org,width = 40, height = 40, units = "cm")
+
+  }
+}
+
