@@ -17,7 +17,7 @@ You will find here the material I use for my **Latent Variable Models for ecolog
 <img src="img/HMM.png" alt="mpe" width = "280px" align="right"> </img>
 
   * Slides of the course
-    * Chap 1 : Introduction [<i class="fa fa-download"></i>](LatentVariablesModels/chap1_LVM_Intro)
+    * Chap 1 : Introduction [<i class="fa fa-download"></i>](LatentVariablesModels/chap1_LVM_Intro.pdf)
     * Chap 2 : mixture models [<i class="fa fa-download"></i>](LatentVariablesModels/chap2_LVM_Mixtures.pdf)
     * Chap 3 : Hidden Markov Models  [<i class="fa fa-download"></i>]()
     * Chap 4 : Stochastic Block Models [<i class="fa fa-download"></i>]( )
