@@ -383,9 +383,9 @@ $(document).ready(function () {
 <ul>
 <li>Chap 1 : Introduction <a href="LatentVariablesModels/chap1_LVM_Intro.pdf"><i class="fa fa-download"></i></a></li>
 <li>Chap 2 : mixture models <a href="LatentVariablesModels/chap2_LVM_Mixtures.pdf"><i class="fa fa-download"></i></a></li>
-<li>Chap 3 : Hidden Markov Models <a href=""><i class="fa fa-download"></i></a></li>
-<li>Chap 4 : Stochastic Block Models <a href=""><i class="fa fa-download"></i></a></li>
-<li>Chap 5 : Bayesien inference of Latent variable models <a href=""><i class="fa fa-download"></i></a></li>
+<li>Chap 3 : Hidden Markov Models (Available soon)</li>
+<li>Chap 4 : Stochastic Block Models (Available soon)</li>
+<li>Chap 5 : Bayesien inference of Latent variable models (Available soon)</li>
 </ul></li>
 </ul>
 <p>In 2022, the class will take place at Agroparistech, 16 rue CLaude Bernard, Paris</p>
