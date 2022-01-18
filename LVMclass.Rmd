@@ -1,5 +1,6 @@
 ---
-title: "Latent Variable Models for ecology and biology"
+title: "Latent Variables Models "
+subtitle: 'for ecology and biology'
 output: 
   html_document:
    toc: false
@@ -11,8 +12,8 @@ output:
      before_body: extlogo.html
 ---
 
-
-You will find here the material I use for my **Latent Variable Models for ecology and biology** Class  in [Master 2  *Mathématiques pour les Sciences du Vivant*](https://sites.google.com/view/m2-msv/) of [University Paris Saclay](https://www.universite-paris-saclay.fr/en/education/master/mathematics-and-applications/m2-mathematiques-pour-les-sciences-du-vivant). 
+<br>
+You will find here the material I use for my **Latent Variables Models for ecology and biology** Class  in [Master 2  *Mathématiques pour les Sciences du Vivant*](https://sites.google.com/view/m2-msv/) of [University Paris Saclay](https://www.universite-paris-saclay.fr/en/education/master/mathematics-and-applications/m2-mathematiques-pour-les-sciences-du-vivant). 
 
 <img src="img/HMM.png" alt="mpe" width = "280px" align="right"> </img>
 

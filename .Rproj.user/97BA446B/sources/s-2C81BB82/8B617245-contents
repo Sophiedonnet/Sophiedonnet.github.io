@@ -11,7 +11,7 @@
 
 
 
-<title>Latent Variable Models for ecology and biology</title>
+<title>Latent Variables Models</title>
 
 <script src="site_libs/header-attrs-2.9/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
@@ -371,12 +371,13 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">Latent Variable Models for ecology and biology</h1>
+<h1 class="title toc-ignore">Latent Variables Models</h1>
+<h3 class="subtitle">for ecology and biology</h3>
 
 </div>
 
 
-<p>You will find here the material I use for my <strong>Latent Variable Models for ecology and biology</strong> Class in <a href="https://sites.google.com/view/m2-msv/">Master 2 <em>Mathématiques pour les Sciences du Vivant</em></a> of <a href="https://www.universite-paris-saclay.fr/en/education/master/mathematics-and-applications/m2-mathematiques-pour-les-sciences-du-vivant">University Paris Saclay</a>.</p>
+<p><br> You will find here the material I use for my <strong>Latent Variables Models for ecology and biology</strong> Class in <a href="https://sites.google.com/view/m2-msv/">Master 2 <em>Mathématiques pour les Sciences du Vivant</em></a> of <a href="https://www.universite-paris-saclay.fr/en/education/master/mathematics-and-applications/m2-mathematiques-pour-les-sciences-du-vivant">University Paris Saclay</a>.</p>
 <p><img src="img/HMM.png" alt="mpe" width = "280px" align="right"> </img></p>
 <ul>
 <li>Slides of the course
