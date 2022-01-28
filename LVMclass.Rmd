@@ -1,6 +1,6 @@
 ---
 title: "Latent Variables Models "
-subtitle: 'for ecology and biology'
+subtitle: 'For ecology and biology'
 output: 
   html_document:
    toc: false
@@ -35,4 +35,9 @@ In 2022, the class will take place at Agroparistech, 16 rue CLaude Bernard, Pari
   * 17 fev 2022:  Agroparistech, CB6 
   * 3 mars 2022: Agroparistech, CB6
   * 10 mars 2022: Agroparistech, CB6
+  
+The evaluation consists in the reading of an article. 
+See [here](LatentVariablesModels/InstructionLectureArticle2022.pdf) the instructions. 
+[Here](LatentVariablesModels/Articles_lecture_2022.zip)   is the list of  articles.
+
 
