@@ -1,3 +1,0 @@
-"0","mySimpleSBM$storedModels %>%  "
-"0","  ggplot() + "
-"0","  aes(x = nbBlocks, y = ICL) + geom_line() + geom_point(alpha = 0.5)"

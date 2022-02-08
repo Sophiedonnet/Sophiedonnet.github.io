@@ -1,3 +1,0 @@
-"0","plot(mySimpleSBM, type = ""meso"", "
-"0","     dimLabels = list(row = 'tree', col = 'tree'),"
-"0","     plotOptions = list(edge.width = 1.2))"
