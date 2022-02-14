@@ -21,19 +21,19 @@ You will find here the material I use for my **Latent Variables Models for ecolo
     * Chap 1 : Introduction [<i class="fa fa-download"></i>](LatentVariablesModels/chap1_LVM_Intro.pdf)
     * Chap 2 : mixture models [<i class="fa fa-download"></i>](LatentVariablesModels/chap2_LVM_Mixtures.pdf)
     * Chap 3 : Hidden Markov Models  [<i class="fa fa-download"></i>](LatentVariablesModels/chap3_LVM_HMM.pdf)
-    * Chap 4 : Stochastic Block Models [<i class="fa fa-download"></i>](LatentVariablesModels/chap4_LVM_SBM_LBM.pdf). This class will be completed by a tutorial on R.  [Tutorial](LatentVariablesModels/TutorialBM.html)
+    * Chap 4 : Stochastic Block Models [<i class="fa fa-download"></i>](LatentVariablesModels/chap4_LVM_SBM_LBM.pdf). This class will be completed by a  [tutorial ](LatentVariablesModels/TutorialBM.html) on R. 
     * Chap 5 : Bayesien inference of Latent variable models (Available soon)
 
    
 
     
-In 2022, the class will take place at Agroparistech, 16 rue CLaude Bernard, Paris
+In 2022, the class will take place at AgroParisTech, 16 rue CLaude Bernard, Paris
 
   * 20 janv 2022: Agroparistech, CB6 
   * 27 janv 2022: Agroparistech, CB6 
-  * 10 fév 2022:  Agroparistech, CB5 
-  * 17 fev 2022:  Agroparistech, CB6 
-  * 3 mars 2022: Agroparistech, CB6
+  * 10 fév. 2022: Agroparistech, CB5 
+  * 17 fev. 2022: Agroparistech, CB6 
+  * 03 mars 2022: Agroparistech, CB6
   * 10 mars 2022: Agroparistech, CB6
   
 The evaluation consists in the reading of an article. 
