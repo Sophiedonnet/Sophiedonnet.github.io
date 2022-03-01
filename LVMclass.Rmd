@@ -1,5 +1,5 @@
 ---
-title: "Latent Variables Models "
+title: "Latent Variable Models "
 subtitle: 'For ecology and biology'
 output: 
   html_document:
