@@ -37,6 +37,8 @@ You will find here the material I use for my **Latent Variables Models for ecolo
     
 In 2022, the class will take place at **AgroParisTech, 16 rue Claude Bernard, Paris**
 
+<img src="img/HMM.png" alt="mpe" width = "280px" align="right"> </img>
+
   * 20 janv 2022: Agroparistech, CB6 
   * 27 janv 2022: Agroparistech, CB6 
   * 10 fév. 2022: Agroparistech, CB5 

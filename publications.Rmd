@@ -19,11 +19,15 @@ output:
 
 -   [S1] *Modelling digit preference in ecological count data: A Bayesian approach*. M. Authier, I. Albert, D. Ba, S. Donnet, M. Genu, E. Parent. **Major revision** at Journal of Agricultural, Biological, and Environmental Statistics
 
+
+-  [S2] *Linking seed networks and crop diversity contributions to people: a case study in small-scale farming systems in Sahelian Senegal*. Vanesse Labeyrie, Sophie Donnet; Rachel S. Friedman; Ndeye Fatou Faye; Océane Cobelli; Jacopo Baggio; Kailin Kroetz; María R. Felipe-Lucia; Jaime Ashander; Christine Raimond. Submitted to Agricultural Systems
+
+
 <br>
 
 ## Book chapters
 
--   [C1] J. Aubert, P. Barbillon, S. Donnet, V.Miele. *Chap Modèles à blocs latents pour la détection de structure dans les réseaux écologiques/Statistical Models for Hidden Variables in Ecology*. Soon available \@ [ISTE](www.iste.co.uk/peyrard/ecology.zip).
+-   [C1] J. Aubert, P. Barbillon, S. Donnet, V.Miele. *Chap Modèles à blocs latents pour la détection de structure dans les réseaux écologiques/Statistical Models for Hidden Variables in Ecology*. Available \@ [ISTE](https://onlinelibrary.wiley.com/doi/10.1002/9781119902799.ch6).
 
 <br>
 
