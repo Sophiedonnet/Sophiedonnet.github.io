@@ -18,17 +18,18 @@ output:
 ##  <i class="fa fa-graduation-cap"></i>  PhD students 
 
  
-*Current*
+### Current 
 
-![Tam](img/tam.jpeg){width=10%} [Tam Le Minh](https://tam-leminh.github.io/). Since oct 2020, with with [S. Robin](https://www6.inrae.fr/mia-paris/Equipes/Membres/Stephane-Robin) (INRAE) and  [F. Massol](https://spici.weebly.com/francois-massol.html) (CNRS). Fellowship :  [DIM Mathinnov](https://www.dim-mathinnov.fr/) and ANR Project [EcoNet](https://cmatias.perso.math.cnrs.fr/ANR_EcoNet.html)
+![Tam](img/tam.jpeg){width=10%}[Tam Le Minh](https://tam-leminh.github.io/). Since oct. 2020, with with [S. Robin](https://www6.inrae.fr/mia-paris/Equipes/Membres/Stephane-Robin) (INRAE) and  [F. Massol](https://spici.weebly.com/francois-massol.html) (CNRS). Fellowship :  [DIM Mathinnov](https://www.dim-mathinnov.fr/) and ANR Project [EcoNet](https://cmatias.perso.math.cnrs.fr/ANR_EcoNet.html)
 
  <br> 
 
-*Past* 
-¨
+### Past
+
 ![Saint Clair](img/saintclair.jpeg){width=10%} [Saint-Clair Chabert-Liddell](https://chabert-liddell.netlify.app/en/). Between sept. 2018 and march 2022, with [P. Barbillon](https://www6.inrae.fr/mia-paris/Equipes/Membres/Pierre-Barbillon) (AgroParisTech). Fellowship : [EDMH](https://www.universite-paris-saclay.fr/en/doctoral-schools/hadamard-doctoral-school-mathematics)
 
  
+ <br> 
  
 ## <i class="fas fa-user-graduate"></i> Post-doc
    
@@ -45,7 +46,7 @@ output:
 
  - Tâm Le Minh (2020) 
  
- - Souhila Founas (2019),
+ - Souhila Founas (2019)
 
  - Saint-Clair Chabert-Liddell (2018) 
  
