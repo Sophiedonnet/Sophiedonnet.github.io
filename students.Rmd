@@ -40,7 +40,7 @@ output:
  
 ## <i class="fa fa-book"></i>  Master 2 
 
- -  Armand Favrot (2021)
+ - Armand Favrot (2021)
  
  - Ferdinand Campos (2021)
 
