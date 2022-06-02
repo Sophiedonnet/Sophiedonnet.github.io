@@ -23,8 +23,7 @@ Currently, I am
   * Head of the team [SOLsTIS](https://www6.inrae.fr/mia-paris/Equipes/SOLsTIS) (Statistical mOdelling and Learning for environnemenT and lIfe Sciences).  
 
 
-Our unity is located at [AgroParisTech](https://www.agroparistech.fr) in Paris for yet a few months (soon in Paris Saclay). 
-
+Our unity is located at [AgroParisTech](https://www.agroparistech.fr) in Palaiseau (plateau de Saclay). 
 
 **Research:** I am specialized in the development of **statistical learning methods for ecology and life sciences** in general.  More details [here](research.html). I work with [people from different backgrounds: statisticians, ecologists...](collaborators.html)
 
@@ -39,11 +38,11 @@ Our unity is located at [AgroParisTech](https://www.agroparistech.fr) in Paris f
 
 
 
-- <i class="fas fa-map-marker"></i> UMR MIA-Paris, AgroParisTech, INRAE, </br>
-  16 rue Claude Bernard, </br>
-  75005 Paris Cedex</br>
+- <i class="fas fa-map-marker"></i> UMR MIA-Paris-Saclay, AgroParisTech, INRAE, </br>
+  22 place de l’Agronomie, </br>
+  91120 Palaiseau</br>
   
-- <i class="fa fa-phone"></i> +33 (0)1 44 08 37 19
+- <i class="fa fa-phone"></i> soon provided
 
 - <i class="fa fa-at"></i> <a href="mailto:sophie.donnet@inrae.fr
 ">sophie [dot] donnet  [at] inrae [dot] fr</a>
