@@ -22,6 +22,7 @@ output:
 
 -  [S2] *Linking seed networks and crop diversity contributions to people: a case study in small-scale farming systems in Sahelian Senegal*. Vanesse Labeyrie, Sophie Donnet; Rachel S. Friedman; Ndeye Fatou Faye; Océane Cobelli; Jacopo Baggio; Kailin Kroetz; María R. Felipe-Lucia; Jaime Ashander; Christine Raimond. Submitted to Agricultural Systems
 
+-  [S3] *Learning common structures in a collection of networks. An application to food webs*. S.-C. Chabert-Liddell, P. Barbillon, S. Donnet. Submitted. Available on [Arxiv](https://arxiv.org/pdf/2206.00560.pdf)
 
 <br>
 
