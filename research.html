@@ -13,8 +13,8 @@
 
 <title>Research interests</title>
 
-<script src="site_libs/header-attrs-2.9/header-attrs.js"></script>
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.15/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
@@ -47,6 +47,7 @@
 
 
 
+
 <link rel="stylesheet" href="style.css" type="text/css" />
 
 
@@ -71,6 +72,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -128,11 +132,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -223,7 +231,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -240,7 +248,7 @@ $(document).ready(function () {
   </a>
 </li>
 <li class="dropdown">
-  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
     <span class="fa fa-chart-area"></span>
      
     Research 
@@ -293,7 +301,7 @@ $(document).ready(function () {
   </ul>
 </li>
 <li class="dropdown">
-  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
     <span class="fa fa-laptop"></span>
      
     Teaching
@@ -318,7 +326,7 @@ $(document).ready(function () {
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li class="dropdown">
-  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
     On the web
      
     <span class="caret"></span>
@@ -377,22 +385,32 @@ $(document).ready(function () {
 
 
 <p><br></p>
-<p><strong>Development of probabilistic models and statistical learning methods for ecology and life sciences</strong>.</p>
+<p><strong>Development of probabilistic models and statistical learning
+methods for ecology and life sciences</strong>.</p>
 <p><br></p>
-<p><img src="img/Sophie_Donnet_Xalapa.jpg" alt="sd" width = "240px" align="right"> </img></p>
+<p><img src="img/Sophie_Donnet_Xalapa.jpg" alt="sd" width = "240px" align="right">
+</img></p>
 <p><br></p>
 <ul>
-<li><p>Models for complex interaction network data: multi-level, multiplex, multipartite …</p></li>
-<li><p>Models defined by ordinary and stochastic differential equations.</p></li>
-<li><p>Bayesian statistics: elicitation of a priori distribution and combination of expert</p></li>
-<li><p>Bayesian parametric and nonparametric statistics for counting processes. Statistical Inference for Gaussian Graphical Models</p></li>
-<li><p>Stochastic algorithms: MCMC, EM and stochastic versions, particule filters …</p></li>
-<li><p>Applications in ecology: interaction networks pollinating plants, insects,</p></li>
+<li><p>Models for complex interaction network data: multi-level,
+multiplex, multipartite …</p></li>
+<li><p>Models defined by ordinary and stochastic differential
+equations.</p></li>
+<li><p>Bayesian statistics: elicitation of a priori distribution and
+combination of expert</p></li>
+<li><p>Bayesian parametric and nonparametric statistics for counting
+processes. Statistical Inference for Gaussian Graphical Models</p></li>
+<li><p>Stochastic algorithms: MCMC, EM and stochastic versions,
+particule filters …</p></li>
+<li><p>Applications in ecology: interaction networks pollinating plants,
+insects,</p></li>
 </ul>
-<p><img src="img/bee.jpeg" alt="bee" width = "240px" align="right"> </img></p>
+<p><img src="img/bee.jpeg" alt="bee" width = "240px" align="right">
+</img></p>
 <p><br></p>
 <ul>
-<li>Other Application fields : neuroscience, pharmacokinetics, food risk, EDF reliability, social networks</li>
+<li>Other Application fields : neuroscience, pharmacokinetics, food
+risk, EDF reliability, social networks</li>
 </ul>
 <p><br></p>
 
