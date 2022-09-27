@@ -2,7 +2,7 @@
 title: "Sophie Donnet"
 output: 
   html_document:
-   logo: img/Logotype-INRAE.jpg
+   logo: img/LogoINRAE-MIA.jpg
    number_sections: false
    css: style.css
    includes:
@@ -12,20 +12,26 @@ output:
 <br>
   
 
-<img src="img/sophie_donnet_profile.jpg" alt="mpe" width = "280px" align="right"> </img>
-
+<img src="img/sophie_donnet_profil2022.png" alt="mpe" width = "280px" align="right"> </img>
+ 
   
-I am a researcher at  [INRAE](https://www.inrae.fr/) @ [MIA Paris Saclay](https://www6.inrae.fr/mia-paris). 
+I am a statistics researcher at  [INRAE](https://www.inrae.fr/) @ [MIA Paris Saclay](https://www6.inrae.fr/mia-paris).
 
 Currently, I am
 
-  * Assistant director of [MIA Paris Saclay](https://www6.inrae.fr/mia-paris). 
+  * Vice head (DUA) of [MIA Paris Saclay](https://www6.inrae.fr/mia-paris). 
   * Head of the team [SOLsTIS](https://www6.inrae.fr/mia-paris/Equipes/SOLsTIS) (Statistical mOdelling and Learning for environnemenT and lIfe Sciences).  
 
 
-Our unity is located at [AgroParisTech](https://www.agroparistech.fr) in Palaiseau (Plateau de Saclay). 
+Our lab is located at [AgroParisTech](https://www.agroparistech.fr) in Palaiseau (Plateau de Saclay). 
 
-**Research:** I am specialized in the development of **statistical learning methods for ecology and life sciences** in general.  More details [here](research.html). I work with [people from different backgrounds: statisticians, ecologists...](collaborators.html)
+
+<br>
+  
+  
+## Research 
+
+I am specialized in the development of **statistical learning methods for ecology and life sciences** in general.  More details [here](research.html). I work with [people from different backgrounds: statisticians, ecologists...](collaborators.html)
 
   
   
@@ -42,9 +48,20 @@ Our unity is located at [AgroParisTech](https://www.agroparistech.fr) in Palaise
   22 place de l’Agronomie, </br>
   91120 Palaiseau</br>
   
-- <i class="fa fa-phone"></i> soon provided
+
+- <i class="fa fa-phone"></i> +33 (0)1 89 10 09 38
 
 - <i class="fa fa-at"></i> <a href="mailto:sophie.donnet@inrae.fr
 ">sophie [dot] donnet  [at] inrae [dot] fr</a>
 
 
+
+ 
+<br>
+
+<br>
+
+    
+
+
+ <font size="1">  *Photo prise par Jean-Baptiste Denis à l'occasion de la journée en l'honneur de Eric Parent.*  </font >

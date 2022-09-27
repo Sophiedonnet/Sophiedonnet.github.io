@@ -1,7 +1,7 @@
 name: "Sophie Donnet"
 output_dir: "."
 navbar:
-  logo: img/Logotype-INRAE.jpg
+  logo: img/LogoINRAE-MIA.jpg
   title: 'Sophie Donnet'
   left:
   - text: "Biography"

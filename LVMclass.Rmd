@@ -4,7 +4,7 @@ subtitle: 'For ecology and biology'
 output: 
   html_document:
    toc: false
-   logo: img/Logotype-INRAE.jpg
+   logo: img/LogoINRAE-MIA.jpg
    number_sections: false
    highlight: tango
    css: style.css

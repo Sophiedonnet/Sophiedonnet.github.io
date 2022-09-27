@@ -3,7 +3,7 @@ title: "Probabilistic models for (ecological) networks"
 output: 
   html_document:
    toc: false
-   logo: img/Logotype-INRAE.jpg
+   logo: img/LogoINRAE-MIA.jpg
    number_sections: false
    highlight: tango
    css: style.css
