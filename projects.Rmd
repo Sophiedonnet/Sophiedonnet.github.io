@@ -25,9 +25,10 @@ Currently I am involved in the following projects
 - GDR [Resodiv](https://resodiv.cnrs.fr/amp/le-gdr/direction/) 
 
 
-I am also very proud to belong to the group [State Of The R](https://stateofther.github.io)
+I am also very proud to belong to the group [State Of The R](https://stateofther.github.io) <img src="img/logo_StateOfTheR.png" alt="StateOfTheR" width = "60px"> </img>
+
+
+
 
 <img src="img/statOfTheR2021.jpeg" alt="Roscoff 2021" width = "240px" align="middle"> </img>
- 
- [FinistR 2021](https://stateofther.github.io/finistR2021/)
  
