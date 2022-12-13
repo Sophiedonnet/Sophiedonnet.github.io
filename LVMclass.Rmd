@@ -35,24 +35,16 @@ You will find here the material I use for my **Latent Variables Models for ecolo
 
 **Practical organization**
     
-In 2022, the class will take place at **AgroParisTech, 16 rue Claude Bernard, Paris**
+In 2022, the class will take place at **AgroParisTech, 22 place de l'Agronomie, Palaiseau**
 
 <img src="img/HMM.png" alt="mpe" width = "280px" align="right"> </img>
 
-  * 20 janv 2022: Agroparistech, CB6 
-  * 27 janv 2022: Agroparistech, CB6 
-  * 10 fév. 2022: Agroparistech, CB5 
-  * 17 fev. 2022: Agroparistech, CB6 
-  * 03 mars 2022: Agroparistech, CB6
-  * 10 mars 2022: Agroparistech, CB6
-  
+  * Du 11 janv 2023 au 15 février 2023 (6 séances de 3h)
   
 <br>
 
 **Evaluation**
 
-The evaluation consists in the reading of an article (by groups of two). 
-See [here](LatentVariablesModels/InstructionLectureArticle2022.pdf) the instructions. 
-[Here](LatentVariablesModels/Articles_lecture_2022.zip)   is the list of  articles.
+The evaluation consists in a 3 hours exam  the 8th of March 2023. 
 
 
