@@ -13,7 +13,7 @@
 
 <title>Biography</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.15/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
@@ -132,11 +132,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -384,13 +388,13 @@ $(document).ready(function () {
 <p><br></p>
 <p><img src="img/Sophie-Donnet_inra_HDR_large.jpg" alt="mpe" width = "200px" align="right">
 </img></p>
+<p><strong>Since jan. 2023 </strong> : Senior Researcher (DR2) at <a
+href="www.inrae.fr">INRAE</a>, <a
+href="https://www6.inrae.fr/mia-paris">MIA Paris-Saclay</a></p>
 <p><strong>Since jan. 2022</strong> : Vice head (DUA) of <a
 href="https://www6.inrae.fr/mia-paris">MIA Paris Saclay</a>.</p>
 <p><strong>Since jan. 2021</strong> : Team Leader of <a
 href="https://www6.inrae.fr/mia-paris/Equipes/SOLsTIS">SOLsTIS</a></p>
-<p><strong>Since sept. 2013</strong> : Researcher at <a
-href="www.inrae.fr">INRAE</a>, <a
-href="https://www6.inrae.fr/mia-paris">MIA Paris-Saclay</a></p>
 <p>Member of the scientific councils of <a
 href="http://www2.agroparistech.fr/Structure-Fonctionnement-5.html">AgroParisTech</a>
 and the <a href="https://www.inrae.fr/en/divisions/mathnum">MathNUM
@@ -400,12 +404,14 @@ href="https://www.fondation-hadamard.fr/en">FMJH</a></p>
 <p>Responsible of the Ecology “parcours” at <a
 href="https://sites.google.com/view/m2-msv/programme/semestre-2?authuser=0">Master
 2 MathSV</a>, University Paris Saclay</p>
-<p><a href="CV_donnet_2022.pdf">Detailed CV in French (2021)
+<p><a href="CV_donnet_2023.pdf">Detailed CV in French (2023)
 <i class="far fa-file"></i></a></p>
 <p><br></p>
 <div id="previous-positions" class="section level2">
 <h2>Previous positions</h2>
 <ul>
+<li><p>2013-2022: Researcher (CR) at <a href="www.inrae.fr">INRAE</a>,
+<a href="https://www6.inrae.fr/mia-paris">MIA Paris-Saclay</a></p></li>
 <li><p>2012-2014 : Long time mission in Mexico, as a visiting researcher
 at <a href="https://www.cimat.mx">CIMAT</a> (Centro de Investigacion en
 Matematicas) and <a href="https://www.matem.unam.mx/">Instituto de

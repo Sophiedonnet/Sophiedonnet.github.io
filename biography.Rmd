@@ -16,11 +16,11 @@ output:
 
 <img src="img/Sophie-Donnet_inra_HDR_large.jpg" alt="mpe" width = "200px" align="right"> </img>
 
+**Since jan. 2023 ** :  Senior Researcher (DR2) at [INRAE](www.inrae.fr),  [MIA Paris-Saclay](https://www6.inrae.fr/mia-paris)
+
 **Since jan. 2022** :  Vice head (DUA) of [MIA Paris Saclay](https://www6.inrae.fr/mia-paris). 
 
 **Since jan. 2021** : Team Leader of [SOLsTIS](https://www6.inrae.fr/mia-paris/Equipes/SOLsTIS)
-
-**Since sept. 2013** :  Researcher at [INRAE](www.inrae.fr),  [MIA Paris-Saclay](https://www6.inrae.fr/mia-paris)
 
 Member of the scientific councils of [AgroParisTech](http://www2.agroparistech.fr/Structure-Fonctionnement-5.html) and the [MathNUM  INRAE departement](https://www.inrae.fr/en/divisions/mathnum)
 
@@ -28,7 +28,7 @@ Correspondant for scientific mediation actions at [FMJH](https://www.fondation-h
 
 Responsible of the Ecology "parcours"  at [Master 2 MathSV](https://sites.google.com/view/m2-msv/programme/semestre-2?authuser=0),  University Paris Saclay
 
-[Detailed CV in French (2021)   <i class="far fa-file"></i>](CV_donnet_2022.pdf)
+[Detailed CV in French (2023)   <i class="far fa-file"></i>](CV_donnet_2023.pdf)
 
 
 
@@ -36,6 +36,8 @@ Responsible of the Ecology "parcours"  at [Master 2 MathSV](https://sites.google
 
 
 ## Previous positions
+
+- 2013-2022:  Researcher (CR) at [INRAE](www.inrae.fr),  [MIA Paris-Saclay](https://www6.inrae.fr/mia-paris)
 
 - 2012-2014 : Long time mission in Mexico, as a visiting researcher at [CIMAT](https://www.cimat.mx) (Centro de Investigacion en Matematicas) and [Instituto de Matematicas, Universidad Nacional Autonoma de México (UNAM)](https://www.matem.unam.mx/).  
 
