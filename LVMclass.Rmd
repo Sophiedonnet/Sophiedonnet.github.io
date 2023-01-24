@@ -30,6 +30,7 @@ You will find here the material I use for my **Latent Variables Models for ecolo
        - Some R code examples are given [here](bayesian_stat.html).  
        - *In particular*, we will study the difference between *Variational inference and MCMC* on the [Poisson Mixture model](BayesianClassMaterial/PoissonMixtureVBversusMCMC.html). The codes are [here](BayesianClassMaterial/PoissonMixtureVB.zip). 
 
+  * **ZI-Poisson TP**:  Data [<i class="fa fa-download"></i>](LatentVariablesModels/BarentsFish.csv) and instructions [<i class="fa fa-download"></i>](LatentVariablesModels/TP_ZIP.pdf) 
    
 <br>
 
