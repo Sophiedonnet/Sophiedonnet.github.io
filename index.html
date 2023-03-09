@@ -13,7 +13,7 @@
 
 <title>Sophie Donnet</title>
 
-<script src="site_libs/header-attrs-2.15/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.20/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
@@ -169,8 +169,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -178,16 +178,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -390,15 +383,14 @@ $(document).ready(function () {
 </img></p>
 <p>I am a statistics researcher at <a
 href="https://www.inrae.fr/">INRAE</a> @ <a
-href="https://www6.inrae.fr/mia-paris">MIA Paris Saclay</a>.</p>
+href="https://mia-ps.inrae.fr/">MIA Paris Saclay</a>.</p>
 <p>Currently, I am</p>
 <ul>
-<li>Vice head (DUA) of <a href="https://www6.inrae.fr/mia-paris">MIA
-Paris Saclay</a>.</li>
+<li>Vice head (DUA) of <a href="https://mia-ps.inrae.fr/">MIA Paris
+Saclay</a>.</li>
 <li>Head of the team <a
-href="https://www6.inrae.fr/mia-paris/Equipes/SOLsTIS">SOLsTIS</a>
-(Statistical mOdelling and Learning for environnemenT and lIfe
-Sciences).</li>
+href="https://mia-ps.inrae.fr/solstis">SOLsTIS</a> (Statistical
+mOdelling and Learning for environnemenT and lIfe Sciences).</li>
 </ul>
 <p>Our lab is located at <a
 href="https://www.agroparistech.fr/lecole/ecole-8-sites/campus-agro-paris-saclay">Campus

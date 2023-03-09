@@ -19,9 +19,9 @@ With my colleagues, I developped 2 <i class="fab fa-r-project"></i>  packages av
 
 
 
- - **GREMLINS** :  S. Donnet, [P. Barbillon](https://www6.inrae.fr/mia-paris/Equipes/Membres/Pierre-Barbillon). R-package for the statistical inference of multipartite network.
-Available on [CRAN](https://cran.r-project.org/web/packages/GREMLINS/index.html) or [github](https ://github.com/Demiperimetre/GREMLINS)
+ - **GREMLINS** :  S. Donnet, [P. Barbillon](https://mia-ps.inrae.fr/pierre-barbillon). R-package for the statistical inference of multipartite network.
+Available on [CRAN](https://cran.r-project.org/web/packages/GREMLINS/index.html) or [github](https ://github.com/GrossSBM/GREMLINS)
 
- - **sbm** : [J. Chiquet](https://jchiquet.github.io/), S. Donnet & [P. Barbillon](https://www6.inrae.fr/mia-paris/Equipes/Membres/Pierre-Barbillon). R-package for Stochastic Blockmodels. Available  [github](https://github.com/GrossSBM/sbm)
+ - **sbm** : [J. Chiquet](https://mia-ps.inrae.fr/julien-chiquet), S. Donnet & [P. Barbillon](https://mia-ps.inrae.fr/pierre-barbillon). R-package for Stochastic Blockmodels. Available  [github](https://github.com/GrossSBM/sbm)
 or [CRAN](https ://cran.r-project.org/web/packages/sbm/index.html)
 

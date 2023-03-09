@@ -20,9 +20,16 @@ output:
  
 ### Current 
 
-![Tam](img/tam.jpeg){width=10%}[Tam Le Minh](https://tam-leminh.github.io/). Since oct. 2020, with with [S. Robin](https://www6.inrae.fr/mia-paris/Equipes/Membres/Stephane-Robin) (INRAE) and  [F. Massol](https://spici.weebly.com/francois-massol.html) (CNRS). Fellowship :  [DIM Mathinnov](https://www.dim-mathinnov.fr/) and ANR Project [EcoNet](https://cmatias.perso.math.cnrs.fr/ANR_EcoNet.html)
-
+![Tam](img/tam.jpeg){width=10%}[Tam Le Minh](https://tam-leminh.github.io/). Since oct. 2020, with with S. Robin (Sorbonne Université) and  [F. Massol](https://spici.weebly.com/francois-massol.html) (CNRS). Fellowship :  [DIM Mathinnov](https://www.dim-mathinnov.fr/) and ANR Project [EcoNet](https://cmatias.perso.math.cnrs.fr/ANR_EcoNet.html)
+<br> 
+ 
+![Benoit](img/Benoit.jpg){width=10%} [Benoit Pichon](https://isem-evolution.fr/membre/pichon/). Since Sept. 2022, with with [Sonia Kefi](https://isem-evolution.fr/membre/kefi/) (ISEM) and [Isabelle Gounand](https://isabellegounand.wordpress.com/) (iEES-Paris). Fellowship: [Chaire MMB](http://www.cmap.polytechnique.fr/chaire-mmb/)
+ 
+ 
  <br> 
+ 
+ ![Barbara](img/barbara.jpeg){width=10%} **Barbara Bricout**. Since February 2023,  with S. Robin (Sorbonne Université), Thomas Galewski ([Tour du Valat](https://tourduvalat.org/)), Pierre Defos Du Rau (OFB) and  Laura Dami ([Tour du Valat](https://tourduvalat.org/))
+
 
 ### Past
 
@@ -33,7 +40,7 @@ output:
  
 ## <i class="fas fa-user-graduate"></i> Post-doc
    
-   -  Andreia Hisi (betwenn 04/2020 et 04/2021) with [S. Robin](https://www6.inrae.fr/mia-paris/Equipes/Membres/Stephane-Robin) (INRAE). Fellowship [ANR NGB](https://anr.fr/Projet-ANR-17-CE32-0011)
+   -  Andreia Hisi (betwenn 04/2020 et 04/2021) with S. Robin (INRAE). Fellowship [ANR NGB](https://anr.fr/Projet-ANR-17-CE32-0011)
 
 
  <br> 
