@@ -13,7 +13,7 @@
 
 <title>Collaborators</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.20/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
@@ -132,11 +132,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -165,8 +169,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -174,16 +178,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -384,10 +381,9 @@ $(document).ready(function () {
 <p>Currently, my principle collaborators are</p>
 <ul>
 <li><p><strong>Networks</strong> : Avner Bar-Hen, <a
-href="https://www6.inrae.fr/mia-paris/Equipes/Membres/Pierre-Barbillon">Pierre
-Barbillon</a>, Stéphane Robin, <a
-href="https://jchiquet.github.io/">Julien Chiquet</a>, <a
-href="https://www6.inrae.fr/mia-paris/Equipes/Membres/Julie-Aubert">Julie
+href="https://mia-ps.inrae.fr/pierre-barbillon">Pierre Barbillon</a>,
+Stéphane Robin, <a href="https://jchiquet.github.io/">Julien
+Chiquet</a>, <a href="https://mia-ps.inrae.fr/julie-aubert">Julie
 Aubert</a>, <a
 href="https://lbbe.univ-lyon1.fr/fr/annuaires-des-membres/miele-vincent">Vincent
 Miele</a></p></li>
@@ -399,10 +395,8 @@ Kefi</a></p></li>
 href="https://www.sciencespo.fr/cso/fr/chercheur/Emmanuel%20Lazega/952.html">Emmanuel
 Lazega</a></p></li>
 <li><p><strong>Bayesian statistics</strong> : Séverine Bord, <a
-href="https://www6.inrae.fr/mia-paris_eng/Teams/Members/Isabelle-Albert">Isabelle
-Albert</a>, <a
-href="https://www6.inrae.fr/mia-paris/Equipes/Membres/Eric-Parent">Eric
-Parent</a></p></li>
+href="https://mia-ps.inrae.fr/isabelle-albert">Isabelle Albert</a>, <a
+href="https://mia-ps.inrae.fr/eric-parent">Eric Parent</a></p></li>
 <li><p><strong>SHS</strong> <a
 href="https://ur-green.cirad.fr/l-unite/les-membres-de-l-unite/vanesse-labeyrie">Vanesse
 Labeyrie</a> (CIRAD), <a
