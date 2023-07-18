@@ -15,12 +15,12 @@ output:
 <img src="img/sophie_donnet_profil2022.png" alt="mpe" width = "280px" align="right"> </img>
  
   
-I am a statistics researcher at  [INRAE](https://www.inrae.fr/) @ [MIA Paris Saclay](https://www6.inrae.fr/mia-paris).
+I am a statistics researcher at  [INRAE](https://www.inrae.fr/) @ [MIA Paris Saclay](https://mia-ps.inrae.fr/).
 
 Currently, I am
 
-  * Vice head (DUA) of [MIA Paris Saclay](https://www6.inrae.fr/mia-paris). 
-  * Head of the team [SOLsTIS](https://www6.inrae.fr/mia-paris/Equipes/SOLsTIS) (Statistical mOdelling and Learning for environnemenT and lIfe Sciences).  
+  * Vice head (DUA) of [MIA Paris Saclay](https://mia-ps.inrae.fr/). 
+  * Head of the team [SOLsTIS](https://mia-ps.inrae.fr/solstis) (Statistical mOdelling and Learning for environnemenT and lIfe Sciences).  
 
 
 Our lab is located at [Campus Agro Paris-Saclay](https://www.agroparistech.fr/lecole/ecole-8-sites/campus-agro-paris-saclay) in Palaiseau (Plateau de Saclay). 
