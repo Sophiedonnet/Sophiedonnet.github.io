@@ -28,7 +28,14 @@ Our lab is located at [Campus Agro Paris-Saclay](https://www.agroparistech.fr/le
 
 <br>
   
+
+## News.  Scientific bootcamp "Les mouettes savantes"  
+
+With [Anna Bonnet](https://anna.biogeek.land/) and [Marie-Pierre Etienne](https://marieetienne.github.io/), we are organizing a scientific bootcamp for   high school girls. Please visit [our website](https://marieetienne.github.io/lesmouettessavantes/)! 
   
+  
+
+
 ## Research 
 
 I am specialized in the development of **statistical learning methods for ecology and life sciences** in general.  More details [here](research.html). I work with [people from different backgrounds: statisticians, ecologists...](collaborators.html)

@@ -13,7 +13,7 @@
 
 <title>Sophie Donnet</title>
 
-<script src="site_libs/header-attrs-2.15/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.20/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
@@ -169,8 +169,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -178,16 +178,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -404,6 +397,15 @@ Sciences).</li>
 href="https://www.agroparistech.fr/lecole/ecole-8-sites/campus-agro-paris-saclay">Campus
 Agro Paris-Saclay</a> in Palaiseau (Plateau de Saclay).</p>
 <p><br></p>
+<div id="news.-scientific-bootcamp-les-mouettes-savantes"
+class="section level2">
+<h2>News. Scientific bootcamp “Les mouettes savantes”</h2>
+<p>With <a href="https://anna.biogeek.land/">Anna Bonnet</a> and <a
+href="https://marieetienne.github.io/">Marie-Pierre Etienne</a>, we are
+organizing a scientific bootcamp for high school girls. Please visit <a
+href="https://marieetienne.github.io/lesmouettessavantes/">our
+website</a>!</p>
+</div>
 <div id="research" class="section level2">
 <h2>Research</h2>
 <p>I am specialized in the development of <strong>statistical learning
