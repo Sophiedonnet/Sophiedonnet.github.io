@@ -39,7 +39,7 @@ navbar:
       - text: "Linear model"
         href: linearmodel.html
       - text: "Network data"  
-        href: network.html
+        href: https://sophiedonnet.github.io/IntroductionToBlockModels/
       - text: "Latent variable models"  
         href: LVMclass.html
       
