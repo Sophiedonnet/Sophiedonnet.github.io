@@ -17,22 +17,29 @@ output:
 
 ## Submitted papers
 
--   [S1] *Modelling digit preference in ecological count data: A Bayesian approach*. M. Authier, I. Albert, D. Ba, S. Donnet, M. Genu, E. Parent. **Major revision** at Journal of Agricultural, Biological, and Environmental Statistics
+
+- [S2] *Seed circulation networks, the missing link between crop diversity and sustainable agriculture*. V. Labeyrie, S. Donnet, S. Caillon, E. Garine, C. Raimond. [Submitted]
 
 
--  [S2] *Linking seed networks and crop diversity contributions to people: a case study in small-scale farming systems in Sahelian Senegal*. Vanesse Labeyrie, Sophie Donnet; Rachel S. Friedman; Ndeye Fatou Faye; Océane Cobelli; Jacopo Baggio; Kailin Kroetz; María R. Felipe-Lucia; Jaime Ashander; Christine Raimond. Submitted to Agricultural Systems
+- [S1] *Hoeffding-type decomposition for U-statistics on bipartite networks* . T. Le Minh, S. Donnet, F. Massol, S. Robin. [Submitted](https://arxiv.org/abs/2308.14518)
 
--  [S3] *Learning common structures in a collection of networks. An application to food webs*. S.-C. Chabert-Liddell, P. Barbillon, S. Donnet. Submitted. Available on [Arxiv](https://arxiv.org/pdf/2206.00560.pdf)
-
-<br>
-
-## Book chapters
-
--   [C1] J. Aubert, P. Barbillon, S. Donnet, V.Miele. *Chap Modèles à blocs latents pour la détection de structure dans les réseaux écologiques/Statistical Models for Hidden Variables in Ecology*. Available \@ [ISTE](https://onlinelibrary.wiley.com/doi/10.1002/9781119902799.ch6).
+ 
 
 <br>
+
+
 
 ## Published or accepted articles
+
+- [A26] *Using the multivariate Hawkes process to study interactions between multiple species from camera trap data* L. Nicvert, S. Donnet, M. Keith, M. Peel, M.J. Somers, L. H. 
+Swanepoel, J. Venter,  H. Fritz, and S. Dray.  Accepted for publication in Ecology 
+
+
+- [A25] *Learning common structures in a collection of networks. An application to food webs*. S.-C. Chabert-Liddell, P. Barbillon, S. Donnet. [Accepted for publication in Annals of Applied Statistics](https://arxiv.org/pdf/2206.00560.pdf)
+
+- [A24] *Linking seed networks and crop diversity contributions to people: a case study in small-scale farming systems in Sahelian Senegal*. Vanesse Labeyrie, Sophie Donnet; Rachel S. Friedman; Ndeye Fatou Faye; Océane Cobelli; Jacopo Baggio; Kailin Kroetz; María R. Felipe-Lucia; Jaime Ashander; Christine Raimond. [Volume 211, October 2023, 103726, Agricultural Systems](https://www.sciencedirect.com/science/article/abs/pii/S0308521X23001312?via%3Dihub)
+
+ 
 
 -   [A23] *Expert elicitation and hierarchical Bayesian approach for parametric survival models: An application to Ixodes ricinus ticks exposed to various temperature and relative humidity*. P. Wongnak, S. Bord, S. Donnet, T. Hoch, F. Beugnet , K. Chalvet-Monfray. [Ecological Modelling, Volume 464, February 2022](https://www.sciencedirect.com/science/article/pii/S0304380021003653)
 
@@ -82,6 +89,20 @@ output:
 
 <br>
 
+## Book chapters
+
+-   [C1] J. Aubert, P. Barbillon, S. Donnet, V.Miele. *Chap Modèles à blocs latents pour la détection de structure dans les réseaux écologiques/Statistical Models for Hidden Variables in Ecology*. Available \@ [ISTE](https://onlinelibrary.wiley.com/doi/10.1002/9781119902799.ch6).
+
+<br>
+
+## Working papers 
+
+ 
+
+- [W1] *Using deterministic approximations to accelerate SMC for posterior sampling*. S. Donnet, S. Robin. [Working paper](https://arxiv.org/abs/1707.07971)
+
+<br>
+
 ## Book reviews and discussions
 
 -   [B3] S. Donnet. Book review of "Stochastic Modelling for Systems Biology (second edition)" by Darren J. Wilkinson. CHANCE 25-4 (Décembre 2012)
@@ -91,3 +112,4 @@ output:
 -   [B1] S. Donnet. Book review of "Monte Carlo Simulation for the Pharmaceutical Industry : Concepts, Algorithms, and Case Studies" by Mark Chang. International Statistical Review (Avril 2012)
 
 -   [D1] S. Donnet, A. Samson. Discussion on "Parameter estimation for differential equations : a generalized smoothing approaché" (by Ramsay JO, Hooker G, Campbell D and Cao J), Journal of the Royal Statistical Society : Series B, 69(5) :741-796, (2007)
+
