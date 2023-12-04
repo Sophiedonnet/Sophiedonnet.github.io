@@ -17,6 +17,8 @@ output:
 
 ## Submitted papers
 
+- [S3] *Auto-encoding GPS data to reveal individual and collective behaviour*, S.C. Chabert-Liddell, N. Bez, P. Gloaguen, S. Donnet , S. Mahévas [Submitted](https://hal.science/hal-04317516)
+
 
 - [S2] *Seed circulation networks, the missing link between crop diversity and sustainable agriculture*. V. Labeyrie, S. Donnet, S. Caillon, E. Garine, C. Raimond. [Submitted]
 
