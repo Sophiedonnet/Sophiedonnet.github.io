@@ -36,16 +36,21 @@ You will find here the material I use for my **Latent Variables Models for ecolo
 
 **Practical organization**
     
-In 2023, the class will take place at **AgroParisTech, 22 place de l'Agronomie, Palaiseau**
+In 2024, the class will take place at **AgroParisTech, 22 place de l'Agronomie, Palaiseau** in room Pal-C2.2.47, on wednesdays from 14:00 to 17:00
 
-<img src="img/HMM.png" alt="mpe" width = "280px" align="right"> </img>
+<img src="img/bee.jpeg" alt="mpe" width = "280px" align="right"> </img>
 
-  * On wednesdays from 14:00 to 17:00 every week from 11 janv 2023 to 15 février 2023 (6 séances de 3h)
-  
+  * 17/01/2024
+  * 24/01/2024
+  * 07/02/2024 
+  * 14/02/2024 
+  * 28/02/2024 
+  * 06/03/2024
+
 <br>
 
 **Evaluation**
 
-The evaluation consists in a 3 hours exam  the 8th of March 2023. 
+The evaluation consists in a 3 hours exam  the 20th of March 2024. 
 
 

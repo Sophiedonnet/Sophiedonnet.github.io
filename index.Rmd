@@ -37,10 +37,13 @@ I am specialized in the development of **statistical learning methods for ecolog
  
 <br>
 
+## Intership 
+
+  - [M1 or M2 intership](https://mia-ps.inrae.fr/node/608) on "Textual analysis of the perception of the ecological role of earthworms in the literature"
+
+
 ## The next events:  
 
-  
-  
   - Workshop [**Statistiques au sommet de Rochebrune**](https://sophiedonnet.github.io/StatsAuSommetRochebrune/)
   
  -  Ecole chercheurs CESAB  [**Analyse de réseaux d’interactions en écologie**](https://www.fondationbiodiversite.fr/?post_type=evenement&p=23848) in Montpellier, 22 – 26 April 2024 
