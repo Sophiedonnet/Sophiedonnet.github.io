@@ -23,14 +23,20 @@ You will find here the material I use for my **Latent Variables Models for ecolo
 
   * **Chap 1** : Introduction [<i class="fa fa-download"></i>](LatentVariablesModels/chap1_LVM_Intro.pdf)
   * **Chap 2** : mixture models [<i class="fa fa-download"></i>](LatentVariablesModels/chap2_LVM_Mixtures.pdf)
+  * **ZI-Poisson TP**:  Data [<i class="fa fa-download"></i>](LatentVariablesModels/BarentsFish.csv) and instructions [<i class="fa fa-download"></i>](LatentVariablesModels/TP_ZIP.pdf) 
   * **Chap 3** : Hidden Markov Models  [<i class="fa fa-download"></i>](LatentVariablesModels/chap3_LVM_HMM.pdf)
   * **Chap 4** : Stochastic Block Models [<i class="fa fa-download"></i>](LatentVariablesModels/chap4_LVM_SBM_LBM.pdf). This class will be completed by a  [tutorial](LatentVariablesModels/TutorialBM.html) on R. 
-  * **Chap 5** : Bayesien inference of Latent variable models. 
+  
+   
+  * **Chap5** : A gentle introduction to Variational probabilistic Autoencoder  [<i class="fa fa-download"></i>](LatentVariablesModels/chap5_LVM_VAE.pdf)    <img src="img/icons8-nouveau-48.png" alt="sd" width = "48px" style="display: inline-block; margin: 0" > </img> 
+  
+  
+  * **Chap 6** : Bayesien inference of Latent variable models. 
        - Slides are here [<i class="fa fa-download"></i>](LatentVariablesModels/chap5_LVM_bayesian_main.pdf). 
        - Some R code examples are given [here](bayesian_stat.html).  
        - *In particular*, we will study the difference between *Variational inference and MCMC* on the [Poisson Mixture model](BayesianClassMaterial/PoissonMixtureVBversusMCMC.html). The codes are [here](BayesianClassMaterial/PoissonMixtureVB.zip). 
 
-  * **ZI-Poisson TP**:  Data [<i class="fa fa-download"></i>](LatentVariablesModels/BarentsFish.csv) and instructions [<i class="fa fa-download"></i>](LatentVariablesModels/TP_ZIP.pdf) 
+
    
 <br>
 
