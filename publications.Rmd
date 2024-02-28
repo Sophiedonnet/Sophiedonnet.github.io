@@ -17,12 +17,14 @@ output:
 
 ## Submitted papers
 
-- [S4] *The interplay of facilitation and competition drives the emergence of multistability in dryland plant communities*, B. Pichon, I. Gounand, S. Donnet, S. Kéfi
+- [S5] *Estimating distances to tipping points from dryland ecosystem images*, B. Pichon,  S. Donnet, I. Gounand,  S. Kéfi. [Submitted](https://www.biorxiv.org/content/10.1101/2024.02.20.581244v1)
 
-- [S3] *Auto-encoding GPS data to reveal individual and collective behaviour*, S.C. Chabert-Liddell, N. Bez, P. Gloaguen, S. Donnet , S. Mahévas [Submitted](https://hal.science/hal-04317516)
+- [S4] *The interplay of facilitation and competition drives the emergence of multistability in dryland plant communities*, B. Pichon, I. Gounand, S. Donnet, S. Kéfi. [Submitted](https://www.biorxiv.org/content/10.1101/2024.01.09.573035v1). 
+
+- [S3] *Auto-encoding GPS data to reveal individual and collective behaviour*, S.C. Chabert-Liddell, N. Bez, P. Gloaguen, S. Donnet , S. Mahévas.  [Submitted](https://hal.science/hal-04317516)
 
 
-- [S2] *Seed circulation networks, the missing link between crop diversity and sustainable agriculture*. V. Labeyrie, S. Donnet, S. Caillon, E. Garine, C. Raimond. [Submitted]
+- [S2] *Seed circulation networks, the missing link between crop diversity and sustainable agriculture*. V. Labeyrie, S. Donnet, S. Caillon, E. Garine, C. Raimond. Submitted
 
 
 - [S1] *Hoeffding-type decomposition for U-statistics on bipartite networks* . T. Le Minh, S. Donnet, F. Massol, S. Robin. [Submitted](https://arxiv.org/abs/2308.14518)
@@ -39,7 +41,7 @@ output:
 Swanepoel, J. Venter,  H. Fritz, and S. Dray.  [February 2024, Ecology](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.4237) 
 
 
-- [A25] *Learning common structures in a collection of networks. An application to food webs*. S.-C. Chabert-Liddell, P. Barbillon, S. Donnet. [Accepted for publication in Annals of Applied Statistics](https://arxiv.org/pdf/2206.00560.pdf)
+- [A25] *Learning common structures in a collection of networks. An application to food webs*. S.-C. Chabert-Liddell, P. Barbillon, S. Donnet. [To appear in Annals of Applied Statistics](https://www.e-publications.org/ims/submission/AOAS/user/submissionFile/56030?confirm=1f58e168)
 
 - [A24] *Linking seed networks and crop diversity contributions to people: a case study in small-scale farming systems in Sahelian Senegal*. Vanesse Labeyrie, Sophie Donnet; Rachel S. Friedman; Ndeye Fatou Faye; Océane Cobelli; Jacopo Baggio; Kailin Kroetz; María R. Felipe-Lucia; Jaime Ashander; Christine Raimond. [Volume 211, October 2023, 103726, Agricultural Systems](https://www.sciencedirect.com/science/article/abs/pii/S0308521X23001312?via%3Dihub)
 
@@ -47,9 +49,9 @@ Swanepoel, J. Venter,  H. Fritz, and S. Dray.  [February 2024, Ecology](https://
 
 -   [A23] *Expert elicitation and hierarchical Bayesian approach for parametric survival models: An application to Ixodes ricinus ticks exposed to various temperature and relative humidity*. P. Wongnak, S. Bord, S. Donnet, T. Hoch, F. Beugnet , K. Chalvet-Monfray. [Ecological Modelling, Volume 464, February 2022](https://www.sciencedirect.com/science/article/pii/S0304380021003653)
 
--   [A22] *Impact of the mesoscale structure of a bipartite ecological interaction network on its robustness through a probabilistic modeling*, S.-C. Chabert-Liddell, P. Barbillon, S. Donnet. Published in [Environmetrics](https://onlinelibrary.wiley.com/share/author/QQSDM44WHNCDYVMQJKVT?target=10.1002/env.2709). DOI: 10.1002/env.2709
+-   [A22] *Impact of the mesoscale structure of a bipartite ecological interaction network on its robustness through a probabilistic modeling*, S.-C. Chabert-Liddell, P. Barbillon, S. Donnet. Published in [Environmetrics, Volume 33, Issue 2](https://onlinelibrary.wiley.com/share/author/QQSDM44WHNCDYVMQJKVT?target=10.1002/env.2709). DOI: 10.1002/env.2709
 
--   [A21] *Coupling ecological network analysis with high-throughput sequencing-based surveys: lessons from the Next-Generation Biomonitoring project*, M. Dubart, P. Alonso, D. Barroso-Bergada, N. Becker, K. Bethune, D. A. Bohan, C. Boury, M. Cambon, E. Canard, E. Chancerel, J. Chiquet, P. David, N. de Manincor, S. Donnet, A. Duputié, B. Facon, E. Guichoux, T. Le Minh, S. Ortiz-Martínez, L. Piouceau, A. Sacco--Martret de Préville, M. Plantegenest, C. Poux, V. Ravigné, S. Robin, M. Trillat, C. Vacher, C. Vernière, François Massol. **Accepted by Applied Ecology Resources**
+-   [A21] *Coupling ecological network analysis with high-throughput sequencing-based surveys: lessons from the Next-Generation Biomonitoring project*, M. Dubart, P. Alonso, D. Barroso-Bergada, N. Becker, K. Bethune, D. A. Bohan, C. Boury, M. Cambon, E. Canard, E. Chancerel, J. Chiquet, P. David, N. de Manincor, S. Donnet, A. Duputié, B. Facon, E. Guichoux, T. Le Minh, S. Ortiz-Martínez, L. Piouceau, A. Sacco--Martret de Préville, M. Plantegenest, C. Poux, V. Ravigné, S. Robin, M. Trillat, C. Vacher, C. Vernière, François Massol. [Advances in Ecological Research,  Volume 65, 2021, Pages 367-430](https://www.sciencedirect.com/science/article/abs/pii/S0065250421000222)
 
 -   [A20] *Accelerating Bayesian estimation for network Poisson models using frequentist variational estimates*. Sophie Donnet, Stéphane Robin. [JRSSC, 16 April 2021](https://rss.onlinelibrary.wiley.com/doi/10.1111/rssc.12489). [[Arxiv]](https://arxiv.org/abs/1907.09771).
 
