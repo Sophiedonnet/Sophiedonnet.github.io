@@ -57,6 +57,6 @@ In 2024, the class will take place at **AgroParisTech, 22 place de l'Agronomie, 
 
 **Evaluation**
 
-The evaluation consists in a 3 hours exam  the 20th of March 2024.  [Exam of 2023](LatentVariablesModels/examen_2023.pdf) 
+The evaluation consists in a 3 hours exam  the 20th of March 2024.  [Exam of 2024](LatentVariablesModels/examen_2024.pdf) 
  
 
