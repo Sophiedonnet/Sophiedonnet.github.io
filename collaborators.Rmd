@@ -13,10 +13,10 @@ output:
 
  
 
-Currently, my principle collaborators are
+My principle collaborators are and have been:
 
-   - **Networks** : Avner Bar-Hen, [Pierre Barbillon](https://mia-ps.inrae.fr/pierre-barbillon), Stéphane Robin, [Julien Chiquet](https://jchiquet.github.io/),  [Julie Aubert](https://mia-ps.inrae.fr/julie-aubert), [Vincent Miele](https://lbbe.univ-lyon1.fr/fr/annuaires-des-membres/miele-vincent)
-
+   - **Networks** : [Pierre Barbillon](https://mia-ps.inrae.fr/pierre-barbillon), Stéphane Robin, [Julien Chiquet](https://jchiquet.github.io/),  [Julie Aubert](https://mia-ps.inrae.fr/julie-aubert), Isabelle Gounand (IEES, Paris)
+   
    - **Ecology** : [François Massol](https://spici.weebly.com/francois-massol.html), [Sonia Kefi](https://isem-evolution.fr/en/membre/kefi/) 
 
    - **Sociology** : [Emmanuel Lazega](https://www.sciencespo.fr/cso/fr/chercheur/Emmanuel%20Lazega/952.html)
