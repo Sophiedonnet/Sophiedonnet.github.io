@@ -15,38 +15,49 @@ output:
 
 <br> 
 
-##  <i class="fa fa-graduation-cap"></i>  PhD students 
+##  <i class="fa fa-graduation-cap"></i>  Current PhD students 
 
  
-### Current 
+![Louis](img/Louis.jpeg){width=10%} [Louis Lacoste](https://mia-ps.inrae.fr/louis-lacoste). Since Sept. 2024,  with [Pierre Barbillon](https://www6.inrae.fr/mia-paris/Equipes/Membres/Pierre-Barbillon) (AgroParisTech) and [Julie Aubert](https://julieaubert.github.io/myprowebsite/) (INRAE). Fellowship : [FMJH](https://www.universite-paris-saclay.fr/en/doctoral-schools/hadamard-doctoral-school-mathematics) and [Département MATHNUM](https://www.inrae.fr/departements/mathnum), INRAE.  
 
-![Tam](img/tam.jpeg){width=10%}[Tam Le Minh](https://tam-leminh.github.io/). Since oct. 2020, with with S. Robin (Sorbonne Université) and  [F. Massol](https://spici.weebly.com/francois-massol.html) (CNRS). Fellowship :  [DIM Mathinnov](https://www.dim-mathinnov.fr/) and ANR Project [EcoNet](https://cmatias.perso.math.cnrs.fr/ANR_EcoNet.html)
 <br> 
  
-![Benoit](img/Benoit.jpg){width=10%} [Benoit Pichon](https://isem-evolution.fr/membre/pichon/). Since Sept. 2022, with with [Sonia Kefi](https://isem-evolution.fr/membre/kefi/) (ISEM) and [Isabelle Gounand](https://isabellegounand.wordpress.com/) (iEES-Paris). Fellowship: [Chaire MMB](http://www.cmap.polytechnique.fr/chaire-mmb/)
+![Benoit](img/Benoit.jpg){width=10%} [Benoit Pichon](https://isem-evolution.fr/membre/pichon/). Since Sept. 2022,   with [Sonia Kefi](https://isem-evolution.fr/membre/kefi/) (ISEM) and [Isabelle Gounand](https://isabellegounand.wordpress.com/) (iEES-Paris). Fellowship: [Chaire MMB](http://www.cmap.polytechnique.fr/chaire-mmb/)
  
  
  <br> 
  
- ![Barbara](img/barbara.jpeg){width=10%} **Barbara Bricout**. Since February 2023,  with S. Robin (Sorbonne Université), Thomas Galewski ([Tour du Valat](https://tourduvalat.org/)), Pierre Defos Du Rau (OFB) and  Laura Dami ([Tour du Valat](https://tourduvalat.org/))
+ ![Barbara](img/barbara.jpeg){width=10%} [Barbara Bricout](https://tourduvalat.org/staff/barbara-bricout/). Since February 2023,  with S. Robin (Sorbonne Université), Thomas Galewski ([Tour du Valat](https://tourduvalat.org/)), Pierre Defos Du Rau (OFB) and  Laura Dami ([Tour du Valat](https://tourduvalat.org/)). Fellowship: OFB, Tour du Valat
+ 
+ <br> 
 
 
-### Past
+##  <i class="fa fa-graduation-cap"></i>  Past    PhD students 
+
+
+![Tam](img/tam.jpeg){width=10%}[Tam Le Minh](https://tam-leminh.github.io/). Since oct. 2020, with  S. Robin (Sorbonne Université) and  [F. Massol](https://spici.weebly.com/francois-massol.html) (CNRS). Fellowship :  [DIM Mathinnov](https://www.dim-mathinnov.fr/) and ANR Project [EcoNet](https://cmatias.perso.math.cnrs.fr/ANR_EcoNet.html)
 
 ![Saint Clair](img/saintclair.jpeg){width=10%} [Saint-Clair Chabert-Liddell](https://chabert-liddell.netlify.app/en/). Between sept. 2018 and march 2022, with [P. Barbillon](https://www6.inrae.fr/mia-paris/Equipes/Membres/Pierre-Barbillon) (AgroParisTech). Fellowship : [EDMH](https://www.universite-paris-saclay.fr/en/doctoral-schools/hadamard-doctoral-school-mathematics)
 
  
  <br> 
  
-## <i class="fas fa-user-graduate"></i> Post-doc
+##  <i class="fa fa-graduation-cap"></i>  Past Post-doc  
+
+
    
-   -  Andreia Hisi (betwenn 04/2020 et 04/2021) with S. Robin (INRAE). Fellowship [ANR NGB](https://anr.fr/Projet-ANR-17-CE32-0011)
+   - Saint-Clair Chabert-Liddell (between 02/2023 and ) with [S. Mahevas](https://umr-marbec.fr/membre/stephanie-mahevas/) (IFREMER), [N. Bez](https://umr-marbec.fr/membre/nicolas-bez/) (IRD) et [P. Gloaguen](https://papayoun.github.io/) (Univ. Bretagne Sud). Fellowship: [France Filière Pêche (FFP) as part of the MACCOLOC project](https://www.francefilierepeche.fr/projets/maccoloc-analyse-indices-abondance-flottille/)
+ 
+   
+   - Andreia Hisi (betwenn 04/2020 and 04/2021) with S. Robin (INRAE). Fellowship [ANR NGB](https://anr.fr/Projet-ANR-17-CE32-0011)
 
 
  <br> 
  
 ## <i class="fa fa-book"></i>  Master 2 
 
+ - Louis Lacoste (2024)
+ 
  - Armand Favrot (2021)
  
  - Ferdinand Campos (2021)
@@ -68,4 +79,4 @@ output:
  <br> 
  
 ## <i class="fa fa-book"></i>  Master 1  
- Thomas Vrignaud (2019), Jocelyn Vanhonacker (2018), Wei Huang (2010)
+ Antoine Malet (2024), Thomas Vrignaud (2019), Jocelyn Vanhonacker (2018), Wei Huang (2010)
