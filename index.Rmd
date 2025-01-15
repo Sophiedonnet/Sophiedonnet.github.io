@@ -44,8 +44,7 @@ I am specialized in the development of **statistical learning methods for ecolog
 
 ## The next events:  
 
-  - Workshop [**Statistiques au sommet de Rochebrune**](https://sophiedonnet.github.io/StatsAuSommetRochebrune/)
-  
+ 
  -  Ecole chercheurs CESAB  [**Analyse de réseaux d’interactions en écologie**](https://www.fondationbiodiversite.fr/?post_type=evenement&p=23848) in Montpellier, 22 – 26 April 2024 
   
  - Scientific bootcamp for high school girls  [**Les mouettes savantes**](https://marieetienne.github.io/lesmouettessavantes/) organized with [Anna Bonnet](https://anna.biogeek.land/) and [Marie-Pierre Etienne](https://marieetienne.github.io/) in Paimpont, 24 - 28 June 2024
