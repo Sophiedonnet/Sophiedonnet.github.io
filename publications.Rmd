@@ -12,6 +12,7 @@ output:
 ---
 
 <br>
+*Last update on `r format(Sys.time(), '%d/%m/%y')` *
 
 <br>
 

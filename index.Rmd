@@ -37,17 +37,23 @@ I am specialized in the development of **statistical learning methods for ecolog
  
 <br>
 
-## Intership 
+## Job offers
 
-  - [M1 or M2 intership](https://mia-ps.inrae.fr/node/608) on "Textual analysis of the perception of the ecological role of earthworms in the literature"
+  - We are looking for a PhD candidate for a Cifre thesis at [EDF (Chatou)](https://www.edf.fr/groupe-edf/inventer-l-avenir-de-l-energie/r-d-un-savoir-faire-mondial/5-ans-edf-lab-saclay/edf-lab-chatou-75-ans-de-recherche) on [Hawkes processes](pdfFiles/HawkesEDS.pdf). Contact me if you are interested.  
+  
+ - We also have a post-doc position available on [population genetics](pdfFiles/Post_doc_Proposal_AgroParisTech.pdf) with Camille Coron. 
+
+
+ <br> 
+ 
 
 
 ## The next events:  
 
  
- -  Ecole chercheurs CESAB  [**Analyse de réseaux d’interactions en écologie**](https://www.fondationbiodiversite.fr/?post_type=evenement&p=23848) in Montpellier, 22 – 26 April 2024 
+ -  Ecole chercheurs CESAB  [**Analyse de réseaux d’interactions en écologie**](https://www.fondationbiodiversite.fr/?post_type=evenement&p=23848) in Montpellier, 31th march to  4th april 2025
   
- - Scientific bootcamp for high school girls  [**Les mouettes savantes**](https://marieetienne.github.io/lesmouettessavantes/) organized with [Anna Bonnet](https://anna.biogeek.land/) and [Marie-Pierre Etienne](https://marieetienne.github.io/) in Paimpont, 24 - 28 June 2024
+ - Scientific bootcamp for high school girls  [**Les mouettes savantes**](https://marieetienne.github.io/lesmouettessavantes/),  June 2025
 
 
 
@@ -76,6 +82,6 @@ I am specialized in the development of **statistical learning methods for ecolog
 <br>
 
     
-
+*Last update on `r format(Sys.time(), '%d/%m/%y')` *
 
  <font size="1">  *Photo prise par Jean-Baptiste Denis à l'occasion de la journée en l'honneur de Eric Parent.*  </font >
