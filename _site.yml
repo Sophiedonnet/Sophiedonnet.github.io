@@ -41,7 +41,7 @@ navbar:
       - text: "Network data"  
         href: https://sophiedonnet.github.io/IntroductionToBlockModels/
       - text: "Latent variable models"  
-        href: LVMclass.html
+        href: https://sophiedonnet.github.io/LatentVariableModelsCourse/
       
              
   right:
