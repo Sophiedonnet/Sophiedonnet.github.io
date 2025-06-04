@@ -20,7 +20,7 @@ output:
 
 
 
-Vous trouverez ici les ressources nécéssaires au projet "Moustique Tigre" des [Mouettes 2025](https://marieetienne.github.io/lesmouettessavantes/). 
+Vous trouverez ici les ressources nécéssaires au projet "Moustique Tigre" des [Mouettes Savantes 2025](https://marieetienne.github.io/lesmouettessavantes/). 
 
 
   - [Cas de dengue, zika et chikungunya](DataMoustiqueTigre/arbovirose_data_year.csv) (données issues de santé public france).  
