@@ -39,12 +39,14 @@ navbar:
         href: https://sophiedonnet.github.io/IntroductionToBlockModels/
       - text: "Latent variable models"  
         href: https://sophiedonnet.github.io/LatentVariableModelsCourse/
-      - text: "Mouettes savantes"
-        href: mouettesTigres.html
+  - text: "Mediation"
+    icon: fa-smile-o
+    menu: 
+    - text: "Mouettes savantes"
+      href: mouettesTigres.html   
 
-
-right:
-  - text : "On the web"
+  right:
+  - text: "On the web"
     menu: 
     - text: "Github"
       icon: fab fa-github
@@ -69,3 +71,4 @@ output:
   html_document:
     theme: flatly
     highlight: haddock
+    css: styles.css

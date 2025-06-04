@@ -1,0 +1,16 @@
+/* Ensure the sidebar can handle horizontal overflow */
+  .sidebar {
+    overflow-x: auto;
+    word-break: break-word;
+    padding-right: 10px;
+  }
+
+/* Adjust navbar and navigation elements to wrap content */
+  .navbar, .nav {
+    flex-wrap: wrap;
+  }
+
+/* Prevent horizontal scrolling on the body */
+  body {
+    overflow-x: hidden;
+  }
