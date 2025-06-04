@@ -12,7 +12,7 @@ output:
 <br>
   
 
-<img src="img/sophie_donnet_profil2022.png" alt="mpe" width = "280px" align="right"> </img>
+<img src="img/sophie_donnet_profil2022.png" alt="sophie donnet" width = "280px" align="right"> </img>
  
   
 I am a statistics researcher at  [INRAE](https://www.inrae.fr/) @ [MIA Paris Saclay](https://mia-ps.inrae.fr/).
@@ -37,11 +37,11 @@ I am specialized in the development of **statistical learning methods for ecolog
  
 <br>
 
-## Job offers
+<!-- ## Job offers -->
 
-  - We are looking for a PhD candidate for a Cifre thesis at [EDF (Chatou)](https://www.edf.fr/groupe-edf/inventer-l-avenir-de-l-energie/r-d-un-savoir-faire-mondial/5-ans-edf-lab-saclay/edf-lab-chatou-75-ans-de-recherche) on [Hawkes processes](pdfFiles/HawkesEDS.pdf). Contact me if you are interested.  
-  
- - We also have a post-doc position available on [population genetics](pdfFiles/Post_doc_Proposal_AgroParisTech.pdf) with Camille Coron. 
+<!--   - We are looking for a PhD candidate for a Cifre thesis at [EDF (Chatou)](https://www.edf.fr/groupe-edf/inventer-l-avenir-de-l-energie/r-d-un-savoir-faire-mondial/5-ans-edf-lab-saclay/edf-lab-chatou-75-ans-de-recherche) on [Hawkes processes](pdfFiles/HawkesEDS.pdf). Contact me if you are interested.   -->
+
+<!--  - We also have a post-doc position available on [population genetics](pdfFiles/Post_doc_Proposal_AgroParisTech.pdf) with Camille Coron.  -->
 
 
  <br> 
@@ -50,12 +50,13 @@ I am specialized in the development of **statistical learning methods for ecolog
 
 ## The next events:  
 
- 
- -  Ecole chercheurs CESAB  [**Analyse de réseaux d’interactions en écologie**](https://www.fondationbiodiversite.fr/?post_type=evenement&p=23848) in Montpellier, 31th march to  4th april 2025
-  
+
+ <!-- -  Ecole chercheurs CESAB  [**Analyse de réseaux d’interactions en écologie**](https://www.fondationbiodiversite.fr/?post_type=evenement&p=23848) in Montpellier, 31th march to  4th april 2025 -->
+
  - Scientific bootcamp for high school girls  [**Les mouettes savantes**](https://marieetienne.github.io/lesmouettessavantes/),  June 2025
 
 
+<img src="DataMoustiqueTigre/mouettesAffiche.jpg" alt="MoustiqueTigre" width = "280px" align="center"> </img>
 
 
 <br>

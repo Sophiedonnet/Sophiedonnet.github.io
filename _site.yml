@@ -28,9 +28,6 @@ navbar:
       - text: "Students"
         href: students.html
         icon: fa-graduation-cap 
-     
-      
-        
   - text: "Teaching"
     icon: fa-laptop
     menu:
@@ -42,9 +39,11 @@ navbar:
         href: https://sophiedonnet.github.io/IntroductionToBlockModels/
       - text: "Latent variable models"  
         href: https://sophiedonnet.github.io/LatentVariableModelsCourse/
-      
-             
-  right:
+      - text: "Mouettes savantes"
+        href: mouettesTigres.html
+
+
+right:
   - text : "On the web"
     menu: 
     - text: "Github"

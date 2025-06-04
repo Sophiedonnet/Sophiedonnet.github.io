@@ -1,0 +1,31 @@
+---
+title: "Projet **Moustique tigre**"
+output: 
+  html_document:
+   toc: false
+   logo: img/Logotype-INRAE.jpg
+   number_sections: false
+   highlight: tango
+   css: style.css
+   includes:
+     before_body: extlogo.html
+---
+
+<br> 
+
+<img src="img/moustiquetigre.png" alt="MoustiqueTigre" width = "280px" align="right"> </img>
+
+
+
+
+
+
+Vous trouverez ici les ressources nécéssaires au projet "Moustique Tigre" des [Mouettes 2025](https://marieetienne.github.io/lesmouettessavantes/). 
+
+
+  - [Cas de dengue, zika et chikungunya](DataMoustiqueTigre/arbovirose_data_year.csv) (données issues de santé public france).  
+  - [Présence du moustique sur le territoire métropolitain par département](DataMoustiqueTigre/presenceMoustiqueTigre_data_year.csv)  
+  - [Présence du moustique sur le territoire métropolitain au cours du temps](DataMoustiqueTigre/infectionMoustiqueTigre_data_year.csv)
+
+
+<br> 
