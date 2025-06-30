@@ -24,12 +24,9 @@ output:
 - [S3] *Auto-encoding GPS data to reveal individual and collective behaviour*, S.C. Chabert-Liddell, N. Bez, P. Gloaguen, S. Donnet , S. Mahévas.  [Submitted](https://hal.science/hal-04317516)
 
 
-- [S2] *Seed circulation networks, the missing link between crop diversity and sustainable agriculture*. V. Labeyrie, S. Donnet, S. Caillon, E. Garine, C. Raimond. Submitted
 
 
-- [S1] *Hoeffding-type decomposition for U-statistics on bipartite networks* . T. Le Minh, S. Donnet, F. Massol, S. Robin. [Submitted](https://arxiv.org/abs/2308.14518)
 
- 
 
 <br>
 
@@ -37,6 +34,31 @@ output:
 
 ## Published or accepted articles
 
+- [A30] *Seed circulation networks, the missing link between crop diversity and sustainable agriculture*. V. Labeyrie, S. Donnet, S. Caillon, E. Garine, C. Raimond. . [Chapter 3 of the "Handbook of Social Networks and the Environment"].
+
+- [A29] *Grazing modulates the multiscale spatial structure of dryland vegetation*. Benoît Pichon,
+    S. Kéfi,   I. Gounand 
+    N. Gross, 
+    Y. Le Bagousse-Pinguet 
+    Josquin Guerber,
+    David Eldridge,
+    Enrique Valencia, 
+    César Plaza, 
+    Jaime Martínez-Valderrama, 
+    Hugo Saiz, 
+    Victoria Ochoa, 
+    Beatriz Gozalo, 
+    Emilio Guirado, 
+    Miguel García-Gómez, 
+    Juan J.	Gaitán, 
+    Sergio Asensio, 
+    Betty Josefina Mendoza, 
+    Sophie Donnet, 
+    Fernando T. Maestre. [Accepted in Global Change Biology]()
+    
+- [A28] *Hoeffding-type decomposition for U-statistics on bipartite networks* . T. Le Minh, S. Donnet, F. Massol, S. Robin. [Electron. J. Statist. 19(1): 2829-2875 (2025). DOI: 10.1214/25-EJS2402](https://arxiv.org/abs/2308.14518)
+
+ 
 
 - [A27] *The interplay of facilitation and competition drives the emergence of multistability in dryland plant communities*, B. Pichon, I. Gounand, S. Donnet, S. Kéfi. [Ecology, August 2024, Volume 105, Issue 8.](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.4369) 
 
