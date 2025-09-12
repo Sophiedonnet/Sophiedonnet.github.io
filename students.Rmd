@@ -13,31 +13,41 @@ output:
 
 <br> 
 
+##  <i class="fa fa-graduation-cap"></i>  Current post-docs 
+
+- Lucas Rey co encadré avec Camille Coron et Julien Stoehr
+
+
 <br> 
 
 ##  <i class="fa fa-graduation-cap"></i>  Current PhD students 
 
- 
-![Louis](img/Louis.jpeg){width=10%} [Louis Lacoste](https://mia-ps.inrae.fr/louis-lacoste). Since Sept. 2024,  with [Pierre Barbillon](https://www6.inrae.fr/mia-paris/Equipes/Membres/Pierre-Barbillon) (AgroParisTech) and [Julie Aubert](https://julieaubert.github.io/myprowebsite/) (INRAE). Fellowship : [FMJH](https://www.universite-paris-saclay.fr/en/doctoral-schools/hadamard-doctoral-school-mathematics) and [Département MATHNUM](https://www.inrae.fr/departements/mathnum), INRAE.  
+- ![Ibrahim](img/Ibrahim.png){width=10%} [Ibrahim Seydi](https://www.linkedin.com/in/ibrahim-seydi-94b450201?originalSubdomain=fr). Since Mai. 2025,  with  Merlin Keller and [Julien Stoehr](https://www.ceremade.dauphine.fr/~stoehr/) (AgroParisTech). Fellowship : CIFFRE EDF  - Agroparistech innovation
 
 <br> 
  
-![Benoit](img/Benoit.jpg){width=10%} [Benoit Pichon](https://isem-evolution.fr/membre/pichon/). Since Sept. 2022,   with [Sonia Kefi](https://isem-evolution.fr/membre/kefi/) (ISEM) and [Isabelle Gounand](https://isabellegounand.wordpress.com/) (iEES-Paris). Fellowship: [Chaire MMB](http://www.cmap.polytechnique.fr/chaire-mmb/)
+- ![Louis](img/Louis.jpeg){width=10%} [Louis Lacoste](https://mia-ps.inrae.fr/louis-lacoste). Since Sept. 2024,  with [Pierre Barbillon](https://www6.inrae.fr/mia-paris/Equipes/Membres/Pierre-Barbillon) (AgroParisTech) and [Julie Aubert](https://julieaubert.github.io/myprowebsite/) (INRAE). Fellowship : [FMJH](https://www.universite-paris-saclay.fr/en/doctoral-schools/hadamard-doctoral-school-mathematics) and [Département MATHNUM](https://www.inrae.fr/departements/mathnum), INRAE.  
+
+
  
  
  <br> 
  
- ![Barbara](img/barbara.jpeg){width=10%} [Barbara Bricout](https://tourduvalat.org/staff/barbara-bricout/). Since February 2023,  with S. Robin (Sorbonne Université), Thomas Galewski ([Tour du Valat](https://tourduvalat.org/)), Pierre Defos Du Rau (OFB) and  Laura Dami ([Tour du Valat](https://tourduvalat.org/)). Fellowship: OFB, Tour du Valat
+ - ![Barbara](img/barbara.jpeg){width=10%} [Barbara Bricout](https://tourduvalat.org/staff/barbara-bricout/). Since February 2023,  with S. Robin (Sorbonne Université), Thomas Galewski ([Tour du Valat](https://tourduvalat.org/)), Pierre Defos Du Rau (OFB) and  Laura Dami ([Tour du Valat](https://tourduvalat.org/)). Fellowship: OFB, Tour du Valat
+
+<br> 
  
+- ![Benoit](img/Benoit.jpg){width=10%} [Benoit Pichon](https://isem-evolution.fr/membre/pichon/). Since Sept. 2022,   with [Sonia Kefi](https://isem-evolution.fr/membre/kefi/) (ISEM) and [Isabelle Gounand](https://isabellegounand.wordpress.com/) (iEES-Paris). Fellowship: [Chaire MMB](http://www.cmap.polytechnique.fr/chaire-mmb/)
+
  <br> 
 
 
 ##  <i class="fa fa-graduation-cap"></i>  Past    PhD students 
 
 
-![Tam](img/tam.jpeg){width=10%}[Tam Le Minh](https://tam-leminh.github.io/). Since oct. 2020, with  S. Robin (Sorbonne Université) and  [F. Massol](https://spici.weebly.com/francois-massol.html) (CNRS). Fellowship :  [DIM Mathinnov](https://www.dim-mathinnov.fr/) and ANR Project [EcoNet](https://cmatias.perso.math.cnrs.fr/ANR_EcoNet.html)
+- ![Tam](img/tam.jpeg){width=10%}[Tam Le Minh](https://tam-leminh.github.io/).Oct 2020 - 2023, with  S. Robin (Sorbonne Université) and  [F. Massol](https://spici.weebly.com/francois-massol.html) (CNRS). Fellowship :  [DIM Mathinnov](https://www.dim-mathinnov.fr/) and ANR Project [EcoNet](https://cmatias.perso.math.cnrs.fr/ANR_EcoNet.html)
 
-![Saint Clair](img/saintclair.jpeg){width=10%} [Saint-Clair Chabert-Liddell](https://chabert-liddell.netlify.app/en/). Between sept. 2018 and march 2022, with [P. Barbillon](https://www6.inrae.fr/mia-paris/Equipes/Membres/Pierre-Barbillon) (AgroParisTech). Fellowship : [EDMH](https://www.universite-paris-saclay.fr/en/doctoral-schools/hadamard-doctoral-school-mathematics)
+- ![Saint Clair](img/saintclair.jpeg){width=10%} [Saint-Clair Chabert-Liddell](https://chabert-liddell.netlify.app/en/). Between sept. 2018 and march 2022, with [P. Barbillon](https://www6.inrae.fr/mia-paris/Equipes/Membres/Pierre-Barbillon) (AgroParisTech). Fellowship : [EDMH](https://www.universite-paris-saclay.fr/en/doctoral-schools/hadamard-doctoral-school-mathematics)
 
  
  <br> 

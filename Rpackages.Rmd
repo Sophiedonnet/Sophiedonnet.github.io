@@ -25,3 +25,14 @@ Available on [CRAN](https://cran.r-project.org/web/packages/GREMLINS/index.html)
  - **sbm** : [J. Chiquet](https://mia-ps.inrae.fr/julien-chiquet), S. Donnet & [P. Barbillon](https://mia-ps.inrae.fr/pierre-barbillon). R-package for Stochastic Blockmodels. Available  [github](https://github.com/GrossSBM/sbm)
 or [CRAN](https ://cran.r-project.org/web/packages/sbm/index.html)
 
+ 
+ 
+*Packages developed by my students*: 
+
+  - [**colSBM**](https://grosssbm.github.io/colSBM/)  by Saint Clair Chabert-Liddell et Louis Lacoste
+  - [**robber**](https://chabert-liddell.github.io/robber/)  by Saint Clair Chabert-Liddell 
+  - [**MLVSBM**](https://chabert-liddell.github.io/MLVSBM/)  by Saint Clair Chabert-Liddell  
+  - [**multiplexobs**](https://github.com/Chabert-Liddell/multiplexobs)  by Saint Clair Chabert-Liddell (post-doc)
+  - [**Auto-encoding-GPS-data**](https://github.com/Chabert-Liddell/Auto-encoding-GPS-data)  by Saint Clair Chabert-Liddell (post-doc)
+  - [**colvR**](https://github.com/BBricout/colvR) by Barbara Bricout
+ 
