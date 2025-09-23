@@ -37,13 +37,16 @@ output:
 
 <br> 
  
-- ![Benoit](img/Benoit.jpg){width=10%} [Benoit Pichon](https://isem-evolution.fr/membre/pichon/). Since Sept. 2022,   with [Sonia Kefi](https://isem-evolution.fr/membre/kefi/) (ISEM) and [Isabelle Gounand](https://isabellegounand.wordpress.com/) (iEES-Paris). Fellowship: [Chaire MMB](http://www.cmap.polytechnique.fr/chaire-mmb/)
 
- <br> 
+
+
 
 
 ##  <i class="fa fa-graduation-cap"></i>  Past    PhD students 
 
+ <br> 
+
+- ![Benoit](img/Benoit.jpg){width=10%} [Benoit Pichon](https://isem-evolution.fr/membre/pichon/). 2022 - 2025,   with [Sonia Kefi](https://isem-evolution.fr/membre/kefi/) (ISEM) and [Isabelle Gounand](https://isabellegounand.wordpress.com/) (iEES-Paris). Fellowship: [Chaire MMB](http://www.cmap.polytechnique.fr/chaire-mmb/)
 
 - ![Tam](img/tam.jpeg){width=10%}[Tam Le Minh](https://tam-leminh.github.io/).Oct 2020 - 2023, with  S. Robin (Sorbonne Université) and  [F. Massol](https://spici.weebly.com/francois-massol.html) (CNRS). Fellowship :  [DIM Mathinnov](https://www.dim-mathinnov.fr/) and ANR Project [EcoNet](https://cmatias.perso.math.cnrs.fr/ANR_EcoNet.html)
 
