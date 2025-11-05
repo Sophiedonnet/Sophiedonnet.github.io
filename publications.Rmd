@@ -23,9 +23,8 @@ output:
 
 - [S1] *Auto-encoding GPS data to reveal individual and collective behaviour*, S.C. Chabert-Liddell, N. Bez, P. Gloaguen, S. Donnet , S. Mahévas.  [Submitted](https://hal.science/hal-04317516)
 
--  [S2] *Estimating distances to tipping points from dryland ecosystem images*, B. Pichon,  S. Donnet, I. Gounand,  S. Kéfi. [Submitted](https://www.biorxiv.org/content/10.1101/2024.02.20.581244v1)
+- [S2] *Climatic legacies drive spatial aggregation of plants in drylands*, B. Pichon,   S. Kéfi, I. Gounand,  S. Donnet. Submitted
 
-- [S3] *Climatic legacies drive spatial aggregation of plants in drylands*, B. Pichon,   S. Kéfi, I. Gounand,  S. Donnet. Submitted
 
 
  
@@ -36,7 +35,7 @@ output:
 
 ## Published or accepted articles
 
-
+- [A30]  *Estimating distances to tipping points from dryland ecosystem images*, B. Pichon,  S. Donnet, I. Gounand,  S. Kéfi. [Accepted for publication in Methods in Ecology and evolution](https://www.biorxiv.org/content/10.1101/2024.02.20.581244v1) 
 
 - [A29] *Grazing modulates the multiscale spatial structure of dryland vegetation*. Benoît Pichon, S. Kéfi, I. Gounand N. Gross, Y. Le Bagousse-Pinguet Josquin Guerber, David Eldridge, Enrique Valencia, César Plaza, Jaime Martínez-Valderrama, Hugo Saiz, Victoria Ochoa, Beatriz Gozalo, Emilio Guirado, Miguel García-Gómez, Juan J. Gaitán, Sergio Asensio, Betty Josefina Mendoza, Sophie Donnet, Fernando T. Maestre. [Global Change Biology, https://doi.org/10.1111/gcb.70345](https://onlinelibrary.wiley.com/doi/10.1111/gcb.70345?af=R)
 
@@ -49,7 +48,7 @@ output:
 - [A26] *Using the multivariate Hawkes process to study interactions between multiple species from camera trap data* L. Nicvert, S. Donnet, M. Keith, M. Peel, M.J. Somers, L. H. 
 Swanepoel, J. Venter,  H. Fritz, and S. Dray.  [Ecology, April 2024, Volume 105, Issue 4 ](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.4237)
 
-- [A25] *Learning common structures in a collection of networks. An application to food webs*. S.-C. Chabert-Liddell, P. Barbillon, S. Donnet. [Annals of Applied Statistics, Volume 8, issue 2](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-18/issue-2/Learning-common-structures-in-a-collection-of-networks-An-application/10.1214/23-AOAS1831.full)
+- [A25] *Learning common structures in a collection of networks. An application to food webs*. S.-C. Chabert-Liddell, P. Barbillon, S. Donnet. [Annals of Applied Statistics, 18(2): 1213-1235 (June 2024).](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-18/issue-2/Learning-common-structures-in-a-collection-of-networks-An-application/10.1214/23-AOAS1831.full)
 
 - [A24] *Linking seed networks and crop diversity contributions to people: a case study in small-scale farming systems in Sahelian Senegal*. Vanesse Labeyrie, Sophie Donnet; Rachel S. Friedman; Ndeye Fatou Faye; Océane Cobelli; Jacopo Baggio; Kailin Kroetz; María R. Felipe-Lucia; Jaime Ashander; Christine Raimond. [Volume 211, October 2023, 103726, Agricultural Systems](https://www.sciencedirect.com/science/article/abs/pii/S0308521X23001312?via%3Dihub)
 
