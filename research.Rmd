@@ -13,6 +13,17 @@ output:
 
 <br>
 
+
+I am specialized in the development of **statistical learning methods for ecology and life sciences** in general.  More details [here](research.html). I work with [people from different backgrounds: statisticians, ecologists...](collaborators.html)
+
+  
+  
+ 
+
+<br>
+
+ 
+
 **Development of probabilistic models and statistical learning  methods for ecology and life sciences**.
 
 <br>
