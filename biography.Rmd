@@ -20,15 +20,15 @@ output:
 
 **Since jan. 2022** :  Vice head (DUA) of [MIA Paris Saclay](https://mia-ps.inrae.fr/). 
 
-**Since jan. 2021** : Team Leader of [SOLsTIS](https://mia-ps.inrae.fr/solstis)
 
-Member of the scientific councils of [AgroParisTech](http://www2.agroparistech.fr/Structure-Fonctionnement-5.html) and the [MathNUM  INRAE departement](https://www.inrae.fr/en/divisions/mathnum)
+
+Member of the scientific councils of [AgroParisTech](http://www2.agroparistech.fr/Structure-Fonctionnement-5.html) and [IMPT](https://impt.math.cnrs.fr/) 
 
 Correspondant for scientific mediation actions at [FMJH](https://www.fondation-hadamard.fr/en)
 
 Responsible of the Ecology "parcours"  at [Master 2 MathSV](https://sites.google.com/view/m2-msv/programme/semestre-2?authuser=0),  University Paris Saclay
 
-[Detailed CV in French (2025)   <i class="far fa-file"></i>](CVDonnet_2025.pdf)
+[Detailed CV in French (2026)   <i class="far fa-file"></i>](pdfFiles/CVDonnet_2026.pdf)
 
 
 
@@ -36,6 +36,10 @@ Responsible of the Ecology "parcours"  at [Master 2 MathSV](https://sites.google
 
 
 ## Previous positions
+
+- 2021-2025: Team Leader of [SOLsTIS](https://mia-ps.inrae.fr/solstis)
+
+- 20-20 :  Member of the scientific council of  [MathNUM  INRAE departement](https://www.inrae.fr/en/divisions/mathnum)
 
 - 2013-2022:  Researcher (CR) at [INRAE](www.inrae.fr),  [MIA Paris-Saclay](https://mia-ps.inrae.fr/)
 
