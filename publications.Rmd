@@ -25,9 +25,10 @@ output:
 
 - [S2] *Climatic legacies drive spatial aggregation of plants in drylands*, B. Pichon,   S. Kéfi, I. Gounand,  S. Donnet. Submitted
 
+- [S3] *Common Structure Discovery in Collections of Bipartite Networks: Application to Pollination Systems*, L. Lacoste, P. Barbillon, S. Donnet. [Submitted](https://hal.inrae.fr/MIA-PARIS/hal-05399136v1)
 
-
- 
+- [S4] *Inferring the presence and abundance of rare waterbirds species from scarce data*, 
+B. Bricout, L. Dami, P. Defos du Rau, S. Donnet, T. Galewski, S. Robin. [Submitted](https://arxiv.org/abs/2602.10673)
 
 <br>
 
