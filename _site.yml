@@ -43,7 +43,7 @@ navbar:
     icon: fa-smile-o
     menu: 
     - text: "Mouettes savantes"
-      href: mouettesTigres.html   
+      href: mouettes.html  
 
   right:
   - text: "On the web"
