@@ -21,14 +21,14 @@ output:
 
 
 
-- [S1] *Auto-encoding GPS data to reveal individual and collective behaviour*, S.C. Chabert-Liddell, N. Bez, P. Gloaguen, S. Donnet , S. Mahévas.  [Submitted](https://hal.science/hal-04317516)
+-  *Auto-encoding GPS data to reveal individual and collective behaviour*, S.C. Chabert-Liddell, N. Bez, P. Gloaguen, S. Donnet , S. Mahévas.  [Submitted](https://hal.science/hal-04317516)
 
-- [S2] *Climatic legacies drive spatial aggregation of plants in drylands*, B. Pichon,   S. Kéfi, I. Gounand,  S. Donnet. Submitted
+-  *Common Structure Discovery in Collections of Bipartite Networks: Application to Pollination Systems*, L. Lacoste, P. Barbillon, S. Donnet. [Submitted](https://hal.inrae.fr/MIA-PARIS/hal-05399136v1)
 
-- [S3] *Common Structure Discovery in Collections of Bipartite Networks: Application to Pollination Systems*, L. Lacoste, P. Barbillon, S. Donnet. [Submitted](https://hal.inrae.fr/MIA-PARIS/hal-05399136v1)
-
-- [S4] *Inferring the presence and abundance of rare waterbirds species from scarce data*, 
+-  *Inferring the presence and abundance of rare waterbirds species from scarce data*, 
 B. Bricout, L. Dami, P. Defos du Rau, S. Donnet, T. Galewski, S. Robin. [Submitted](https://arxiv.org/abs/2602.10673)
+
+- *Pinpointing Fragility: Integrating Resilience Indicators into Risk Evaluation*, Benoît Pichon , Sophie Donnet, Isabelle Gounand, Madhur Anand, Sonia Kefi [Ecoevorxiv (2026)](https://ecoevorxiv.org/repository/view/12909/)
 
 <br>
 
@@ -36,9 +36,15 @@ B. Bricout, L. Dami, P. Defos du Rau, S. Donnet, T. Galewski, S. Robin. [Submitt
 
 ## Published or accepted articles
 
-- [A30]  *Estimating distances to tipping points from dryland ecosystem images*, B. Pichon,  S. Donnet, I. Gounand,  S. Kéfi. [Accepted for publication in Methods in Ecology and evolution](https://www.biorxiv.org/content/10.1101/2024.02.20.581244v1) 
 
-- [A29] *Grazing modulates the multiscale spatial structure of dryland vegetation*. Benoît Pichon, S. Kéfi, I. Gounand N. Gross, Y. Le Bagousse-Pinguet Josquin Guerber, David Eldridge, Enrique Valencia, César Plaza, Jaime Martínez-Valderrama, Hugo Saiz, Victoria Ochoa, Beatriz Gozalo, Emilio Guirado, Miguel García-Gómez, Juan J. Gaitán, Sergio Asensio, Betty Josefina Mendoza, Sophie Donnet, Fernando T. Maestre. [Global Change Biology, https://doi.org/10.1111/gcb.70345](https://onlinelibrary.wiley.com/doi/10.1111/gcb.70345?af=R)
+- [A31]  *Climatic legacies drive spatial aggregation of plants in drylands*, Pichon, B., S. Kéfi, I. Gounand, and S. Donnet. [Global Change Biology (2026)32, no. 5](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.70907)
+
+
+- [A30] *Vegetation patterns pinpoint the least resilient dryland sites.*  Pichon, B., Donnet, S., Gounand, I., & Kéfi, S. (2026). 
+[Methods in Ecology and evolution (2026)  17, 172–187 ](https://besjournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/2041-210x.70205) 
+
+ 
+- [A29] *Grazing modulates the multiscale spatial structure of dryland vegetation*. B. Pichon, B., S. Kéfi, I. Gounand, N. Gross, Y. Le Bagousse-Pinguet Josquin Guerber, David Eldridge, Enrique Valencia, César Plaza, Jaime Martínez-Valderrama, Hugo Saiz, Victoria Ochoa, Beatriz Gozalo, Emilio Guirado, Miguel García-Gómez, Juan J. Gaitán, Sergio Asensio, Betty Josefina Mendoza, Sophie Donnet, Fernando T. Maestre. [Global Change Biology, 2025, 31, no. 7 ](https://onlinelibrary.wiley.com/doi/10.1111/gcb.70345?af=R)
 
 - [A28] *Hoeffding-type decomposition for U-statistics on bipartite networks* . T. Le Minh, S. Donnet, F. Massol, S. Robin. [Electron. J. Statist. 19(1): 2829-2875 (2025). DOI: 10.1214/25-EJS2402](https://arxiv.org/abs/2308.14518)
 
@@ -55,9 +61,9 @@ Swanepoel, J. Venter,  H. Fritz, and S. Dray.  [Ecology, April 2024, Volume 105,
 
  
 
--   [A23] *Expert elicitation and hierarchical Bayesian approach for parametric survival models: An application to Ixodes ricinus ticks exposed to various temperature and relative humidity*. P. Wongnak, S. Bord, S. Donnet, T. Hoch, F. Beugnet , K. Chalvet-Monfray. [Ecological Modelling, Volume 464, February 2022](https://www.sciencedirect.com/science/article/pii/S0304380021003653)
+-   [A23] *Expert elicitation and hierarchical Bayesian approach for parametric survival models: An application to Ixodes ricinus ticks exposed to various temperature and relative humidity*. P. Wongnak, S. Bord, S. Donnet, T. Hoch, F. Beugnet , K. Chalvet-Monfray. [Ecological Modelling (2022), Volume 464](https://www.sciencedirect.com/science/article/pii/S0304380021003653)
 
--   [A22] *Impact of the mesoscale structure of a bipartite ecological interaction network on its robustness through a probabilistic modeling*, S.-C. Chabert-Liddell, P. Barbillon, S. Donnet. Published in [Environmetrics, Volume 33, Issue 2](https://onlinelibrary.wiley.com/share/author/QQSDM44WHNCDYVMQJKVT?target=10.1002/env.2709). DOI: 10.1002/env.2709
+-   [A22] *Impact of the mesoscale structure of a bipartite ecological interaction network on its robustness through a probabilistic modeling*, S.-C. Chabert-Liddell, P. Barbillon, S. Donnet. Published in [Environmetrics (2022), Volume 33, Issue 2](https://onlinelibrary.wiley.com/share/author/QQSDM44WHNCDYVMQJKVT?target=10.1002/env.2709). DOI: 10.1002/env.2709
 
 -   [A21] *Coupling ecological network analysis with high-throughput sequencing-based surveys: lessons from the Next-Generation Biomonitoring project*, M. Dubart, P. Alonso, D. Barroso-Bergada, N. Becker, K. Bethune, D. A. Bohan, C. Boury, M. Cambon, E. Canard, E. Chancerel, J. Chiquet, P. David, N. de Manincor, S. Donnet, A. Duputié, B. Facon, E. Guichoux, T. Le Minh, S. Ortiz-Martínez, L. Piouceau, A. Sacco--Martret de Préville, M. Plantegenest, C. Poux, V. Ravigné, S. Robin, M. Trillat, C. Vacher, C. Vernière, François Massol. [Advances in Ecological Research,  Volume 65, 2021, Pages 367-430](https://www.sciencedirect.com/science/article/abs/pii/S0065250421000222)
 
