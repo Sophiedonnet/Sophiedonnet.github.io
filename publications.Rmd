@@ -23,18 +23,22 @@ output:
 
 -  *Auto-encoding GPS data to reveal individual and collective behaviour*, S.C. Chabert-Liddell, N. Bez, P. Gloaguen, S. Donnet , S. Mahévas.  [Submitted](https://hal.science/hal-04317516)
 
--  *Common Structure Discovery in Collections of Bipartite Networks: Application to Pollination Systems*, L. Lacoste, P. Barbillon, S. Donnet. [Submitted](https://hal.inrae.fr/MIA-PARIS/hal-05399136v1)
+-  *Common Structure Discovery in Collections of Bipartite Networks: Application to Pollination Systems*, L. Lacoste, P. Barbillon, S. Donnet. [In revision](https://hal.inrae.fr/MIA-PARIS/hal-05399136v1)
 
 -  *Inferring the presence and abundance of rare waterbirds species from scarce data*, 
-B. Bricout, L. Dami, P. Defos du Rau, S. Donnet, T. Galewski, S. Robin. [Submitted](https://arxiv.org/abs/2602.10673)
+B. Bricout, L. Dami, P. Defos du Rau, S. Donnet, T. Galewski, S. Robin. [In revision
+](https://arxiv.org/abs/2602.10673)
 
-- *Pinpointing Fragility: Integrating Resilience Indicators into Risk Evaluation*, Benoît Pichon , Sophie Donnet, Isabelle Gounand, Madhur Anand, Sonia Kefi [Ecoevorxiv (2026)](https://ecoevorxiv.org/repository/view/12909/)
-
-<br>
+- *Complementarity of temporal and spatial resilience indicators*, Benoit Pichon, Isabelle Gounand,  Sophie Donnet and d Sonia Kéfi. [Submitted](https://www.authorea.com/doi/full/10.22541/au.176643732.21440285/v1) 
+ <br>
 
 
 
 ## Published or accepted articles
+
+
+- *A framework for integrating resilience indicators into risk assessments* Benoît Pichon, Sophie Donnet, Isabelle Gounand, Madhur Anand, Sonia Kéfi [Conservation Biology (2026), e70379](https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.70379)
+
 
 
 -   *Climatic legacies drive spatial aggregation of plants in drylands*, Pichon, B., S. Kéfi, I. Gounand, and S. Donnet. [Global Change Biology (2026)32, no. 5](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.70907)
