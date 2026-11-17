@@ -18,7 +18,7 @@
     "href": "urban_networks.html#r-companion",
     "title": "Urban pollination networks with stochastic block models",
     "section": "R companion",
-    "text": "R companion\n\n\n Code and data (zip): the Quarto source of the companion (companion_slides_UK.qmd) and the data of Baldock et al. (2019). \n\nRender the companion from the code folder with quarto render companion_slides_UK.qmd.\nR packages: dplyr, tidyr, ggplot2, patchwork, sbm, colSBM (≥ 0.4.11, GitHub GrossSBM/colSBM), bipartite, vegan."
+    "text": "R companion\n\n R companion of the slides: the R code that produces the analyses of the slides, step by step, with its results.\n Code and data (zip): the Quarto source of the companion (companion_slides_UK.qmd), the data of Baldock et al. (2019) with the script that builds the networks from them, and the estimation scripts (scripts/).\n Estimation results (zip): the fitted models (.rds). Unzip it inside the code folder, so that the files are in results_analysis/: the companion then reads the fits instead of re-estimating them (some colSBM fits take about 30 min each).\n\nRender the companion from the code folder with quarto render companion_slides_UK.qmd.\nR packages: dplyr, tidyr, ggplot2, patchwork, sbm, colSBM (≥ 0.4.11, GitHub GrossSBM/colSBM), bipartite, vegan."
   },
   {
     "objectID": "research.html",

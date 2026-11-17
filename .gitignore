@@ -5,3 +5,6 @@
 
 /.quarto/
 **/*.quarto_ipynb
+
+# Cached colSBM fits (distributed as UrbanNetworks/UrbanNetworks_Baldock_results.zip)
+UrbanNetworks/UrbanNetworks_Baldock_code/results_analysis/*.rds

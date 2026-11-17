@@ -3,13 +3,17 @@ project:
   output-dir: docs
   render:
     - "*.qmd"
+    - "!UrbanNetworks/"
   resources:
     - img/
     - pdfFiles/
     - publi/
     - BayesianClassMaterial/
     - LinearModel/
-    - UrbanNetworks/
+    - UrbanNetworks/slides_urban_networks_UK.pdf
+    - UrbanNetworks/companion_slides_UK.html
+    - UrbanNetworks/UrbanNetworks_Baldock_code.zip
+    - UrbanNetworks/UrbanNetworks_Baldock_results.zip
 
 website:
   title: "Sophie Donnet"

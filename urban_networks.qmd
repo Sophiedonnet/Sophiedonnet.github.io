@@ -10,13 +10,13 @@ Running example: **Baldock et al. (2019)**, *Nature Ecology & Evolution* 3: 363â
 
 ## Slides
 
-- <i class="fa fa-file-pdf-o"></i> [Slides (PDF)](UrbanNetworks/slides/slides_urban_networks_UK.pdf)
+- <i class="fa fa-file-pdf-o"></i> [Slides (PDF)](UrbanNetworks/slides_urban_networks_UK.pdf)
 
 ## R companion
 
-<!-- - <i class="fa fa-code"></i> [R companion of the slides](UrbanNetworks/Baldock/companion_slides_UK.html): the R code that produces the analyses of the slides, step by step, with its results. -->
-- <i class="fa fa-file-archive-o"></i> [Code and data (zip)](UrbanNetworks/UrbanNetworks_Baldock_code.zip): the Quarto source of the companion (`companion_slides_UK.qmd`) and the data of Baldock et al. (2019).
-<!-- - <i class="fa fa-file-archive-o"></i> [Estimation results (zip)](UrbanNetworks/UrbanNetworks_Baldock_results.zip): the fitted models (`.rds`). Unzip it inside the code folder, so that the files are in `results_analysis/`: the companion then reads the fits instead of re-estimating them (some colSBM fits take about 30 min each). -->
+- <i class="fa fa-code"></i> [R companion of the slides](UrbanNetworks/companion_slides_UK.html): the R code that produces the analyses of the slides, step by step, with its results.
+- <i class="fa fa-file-archive-o"></i> [Code and data (zip)](UrbanNetworks/UrbanNetworks_Baldock_code.zip): the Quarto source of the companion (`companion_slides_UK.qmd`), the data of Baldock et al. (2019) with the script that builds the networks from them, and the estimation scripts (`scripts/`).
+- <i class="fa fa-file-archive-o"></i> [Estimation results (zip)](UrbanNetworks/UrbanNetworks_Baldock_results.zip): the fitted models (`.rds`). Unzip it inside the code folder, so that the files are in `results_analysis/`: the companion then reads the fits instead of re-estimating them (some colSBM fits take about 30 min each).
 
 Render the companion from the code folder with `quarto render companion_slides_UK.qmd`.
 

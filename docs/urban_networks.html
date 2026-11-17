@@ -261,14 +261,15 @@ ul.task-list li input[type="checkbox"] {
 <section id="slides" class="level2">
 <h2 class="anchored" data-anchor-id="slides">Slides</h2>
 <ul>
-<li><i class="fa fa-file-pdf-o"></i> <a href="UrbanNetworks/slides/slides_urban_networks_UK.pdf">Slides (PDF)</a></li>
+<li><i class="fa fa-file-pdf-o"></i> <a href="UrbanNetworks/slides_urban_networks_UK.pdf">Slides (PDF)</a></li>
 </ul>
 </section>
 <section id="r-companion" class="level2">
 <h2 class="anchored" data-anchor-id="r-companion">R companion</h2>
-<!-- - <i class="fa fa-code"></i> [R companion of the slides](UrbanNetworks/Baldock/companion_slides_UK.html): the R code that produces the analyses of the slides, step by step, with its results. -->
 <ul>
-<li><i class="fa fa-file-archive-o"></i> <a href="UrbanNetworks/UrbanNetworks_Baldock_code.zip">Code and data (zip)</a>: the Quarto source of the companion (<code>companion_slides_UK.qmd</code>) and the data of Baldock et al.&nbsp;(2019). <!-- - <i class="fa fa-file-archive-o"></i> [Estimation results (zip)](UrbanNetworks/UrbanNetworks_Baldock_results.zip): the fitted models (`.rds`). Unzip it inside the code folder, so that the files are in `results_analysis/`: the companion then reads the fits instead of re-estimating them (some colSBM fits take about 30 min each). --></li>
+<li><i class="fa fa-code"></i> <a href="UrbanNetworks/companion_slides_UK.html">R companion of the slides</a>: the R code that produces the analyses of the slides, step by step, with its results.</li>
+<li><i class="fa fa-file-archive-o"></i> <a href="UrbanNetworks/UrbanNetworks_Baldock_code.zip">Code and data (zip)</a>: the Quarto source of the companion (<code>companion_slides_UK.qmd</code>), the data of Baldock et al.&nbsp;(2019) with the script that builds the networks from them, and the estimation scripts (<code>scripts/</code>).</li>
+<li><i class="fa fa-file-archive-o"></i> <a href="UrbanNetworks/UrbanNetworks_Baldock_results.zip">Estimation results (zip)</a>: the fitted models (<code>.rds</code>). Unzip it inside the code folder, so that the files are in <code>results_analysis/</code>: the companion then reads the fits instead of re-estimating them (some colSBM fits take about 30 min each).</li>
 </ul>
 <p>Render the companion from the code folder with <code>quarto render companion_slides_UK.qmd</code>.</p>
 <p>R packages: <code>dplyr</code>, <code>tidyr</code>, <code>ggplot2</code>, <code>patchwork</code>, <code>sbm</code>, <code>colSBM</code> (≥ 0.4.11, <a href="https://github.com/GrossSBM/colSBM">GitHub GrossSBM/colSBM</a>), <code>bipartite</code>, <code>vegan</code>.</p>
