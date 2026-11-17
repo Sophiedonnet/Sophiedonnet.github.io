@@ -14,3 +14,10 @@
   body {
     overflow-x: hidden;
   }
+
+
+/* start callouts below floated images */
+.callout { clear: both; }
+
+/* space around pictures floated to the right */
+img[align="right"] { margin: 0 0 1.5em 1.5em; }

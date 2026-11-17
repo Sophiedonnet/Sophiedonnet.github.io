@@ -1,0 +1,23 @@
+---
+title: "Urban pollination networks with stochastic block models"
+---
+
+<br>
+
+Material of my 3-hour course at the school [**Biodiversité urbaine : enjeux et modélisation**](https://urbanbiodiv.sciencesconf.org/) (Institut Henri Poincaré, Paris, 25–27 November 2026): analysis of urban pollination networks with stochastic block models (SBM, colSBM) and network comparison.
+
+Running example: **Baldock et al. (2019)**, *Nature Ecology & Evolution* 3: 363–373. Plant–pollinator networks in 4 UK cities × 9 land uses.
+
+## Slides
+
+- <i class="fa fa-file-pdf-o"></i> [Slides (PDF)](UrbanNetworks/slides/slides_urban_networks_UK.pdf)
+
+## R companion
+
+<!-- - <i class="fa fa-code"></i> [R companion of the slides](UrbanNetworks/Baldock/companion_slides_UK.html): the R code that produces the analyses of the slides, step by step, with its results. -->
+- <i class="fa fa-file-archive-o"></i> [Code and data (zip)](UrbanNetworks/UrbanNetworks_Baldock_code.zip): the Quarto source of the companion (`companion_slides_UK.qmd`) and the data of Baldock et al. (2019).
+<!-- - <i class="fa fa-file-archive-o"></i> [Estimation results (zip)](UrbanNetworks/UrbanNetworks_Baldock_results.zip): the fitted models (`.rds`). Unzip it inside the code folder, so that the files are in `results_analysis/`: the companion then reads the fits instead of re-estimating them (some colSBM fits take about 30 min each). -->
+
+Render the companion from the code folder with `quarto render companion_slides_UK.qmd`.
+
+R packages: `dplyr`, `tidyr`, `ggplot2`, `patchwork`, `sbm`, `colSBM` (≥ 0.4.11, [GitHub GrossSBM/colSBM](https://github.com/GrossSBM/colSBM)), `bipartite`, `vegan`.

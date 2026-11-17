@@ -1,0 +1,23 @@
+/* Ensure the sidebar can handle horizontal overflow */
+  .sidebar {
+    overflow-x: auto;
+    word-break: break-word;
+    padding-right: 10px;
+  }
+
+/* Adjust navbar and navigation elements to wrap content */
+  .navbar, .nav {
+    flex-wrap: wrap;
+  }
+
+/* Prevent horizontal scrolling on the body */
+  body {
+    overflow-x: hidden;
+  }
+
+
+/* start callouts below floated images */
+.callout { clear: both; }
+
+/* space around pictures floated to the right */
+img[align="right"] { margin: 0 0 1.5em 1.5em; }

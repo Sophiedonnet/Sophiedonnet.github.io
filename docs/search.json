@@ -1,0 +1,205 @@
+[
+  {
+    "objectID": "urban_networks.html",
+    "href": "urban_networks.html",
+    "title": "Urban pollination networks with stochastic block models",
+    "section": "",
+    "text": "Material of my 3-hour course at the school Biodiversité urbaine : enjeux et modélisation (Institut Henri Poincaré, Paris, 25–27 November 2026): analysis of urban pollination networks with stochastic block models (SBM, colSBM) and network comparison.\nRunning example: Baldock et al. (2019), Nature Ecology & Evolution 3: 363–373. Plant–pollinator networks in 4 UK cities × 9 land uses."
+  },
+  {
+    "objectID": "urban_networks.html#slides",
+    "href": "urban_networks.html#slides",
+    "title": "Urban pollination networks with stochastic block models",
+    "section": "Slides",
+    "text": "Slides\n\n Slides (PDF)"
+  },
+  {
+    "objectID": "urban_networks.html#r-companion",
+    "href": "urban_networks.html#r-companion",
+    "title": "Urban pollination networks with stochastic block models",
+    "section": "R companion",
+    "text": "R companion\n\n\n Code and data (zip): the Quarto source of the companion (companion_slides_UK.qmd) and the data of Baldock et al. (2019). \n\nRender the companion from the code folder with quarto render companion_slides_UK.qmd.\nR packages: dplyr, tidyr, ggplot2, patchwork, sbm, colSBM (≥ 0.4.11, GitHub GrossSBM/colSBM), bipartite, vegan."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research interests",
+    "section": "",
+    "text": "I am specialized in the development of statistical learning methods for ecology and life sciences in general. More details here. I work with people from different backgrounds: statisticians, ecologists…\n\nDevelopment of probabilistic models and statistical learning methods for ecology and life sciences.\n\n \n\n\nModels for complex interaction network data: multi-level, multiplex, multipartite …\nModels defined by ordinary and stochastic differential equations.\nBayesian statistics: elicitation of a priori distribution and combination of expert\nBayesian parametric and nonparametric statistics for counting processes. Statistical Inference for Gaussian Graphical Models\nStochastic algorithms: MCMC, EM and stochastic versions, particule filters …\nApplications in ecology: interaction networks pollinating plants, insects,\n\n \n\n\nOther Application fields : neuroscience, pharmacokinetics, food risk, EDF reliability, social networks"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Currently I am involved in the following projects"
+  },
+  {
+    "objectID": "projects.html#methodological-networks",
+    "href": "projects.html#methodological-networks",
+    "title": "Projects",
+    "section": "Methodological networks",
+    "text": "Methodological networks\nI am also very proud to belong to the group State Of The R"
+  },
+  {
+    "objectID": "projects.html#organization-of-workshops",
+    "href": "projects.html#organization-of-workshops",
+    "title": "Projects",
+    "section": "Organization of workshops",
+    "text": "Organization of workshops\nI co-organize the following coming events.\n\nWorkshop Statistiques au sommet de Rochebrune\nEcole chercheurs CESAB Analyse de réseaux d’interactions en écologie in Montpellier, 22 – 26 April 2024\nScientific bootcamp for high school girls Les mouettes savantes organized with Anna Bonnet and Marie-Pierre Etienne in Paimpont, 24 - 28 June 2024"
+  },
+  {
+    "objectID": "linearmodel.html",
+    "href": "linearmodel.html",
+    "title": "Linear model",
+    "section": "",
+    "text": "You will find here the material I use for my Linear model Class.\n\nMain document \nSlides of the course\n\nIntroduction \nChap 1 : simple regression \nChap 2 : mutliple regression \nChap 3 : regression with factors \nChap 4 : a summary \n\nA few Rmd examples zip"
+  },
+  {
+    "objectID": "collaborators.html",
+    "href": "collaborators.html",
+    "title": "Collaborators",
+    "section": "",
+    "text": "My principle collaborators are and have been:\n\nNetworks : Pierre Barbillon, Stéphane Robin, Julien Chiquet, Julie Aubert, Isabelle Gounand (IEES, Paris)\nEcology : François Massol, Sonia Kefi\nSociology : Emmanuel Lazega\nBayesian statistics : Séverine Bord, Isabelle Albert, Eric Parent\nSHS Vanesse Labeyrie (CIRAD), Christine Raimond (CNRS), Matthieu Salpeteur (IRD)."
+  },
+  {
+    "objectID": "bayesian_stat.html",
+    "href": "bayesian_stat.html",
+    "title": "Bayesian statistics",
+    "section": "",
+    "text": "I often give classes on Bayesian Statistics. Here are a few slides that I use and that I will update soon.\nBayesian statistics for Latent variable models \n\nSlides [pdf]\nData example 1 : MCMC on non-linear mixed effects models.\nData example 2 : Variational Bayes and MCMC on Poisson mixture model"
+  },
+  {
+    "objectID": "Rpackages.html",
+    "href": "Rpackages.html",
+    "title": "Softwares",
+    "section": "",
+    "text": "With my colleagues, I developped 2  packages available on the CRAN and on  GitHub. Both of them deal with statistical learning for network data. Please contact us for any questions or discussions.\n\nGREMLINS : S. Donnet, P. Barbillon. R-package for the statistical inference of multipartite network. Available on CRAN or github\nsbm : J. Chiquet, S. Donnet & P. Barbillon. R-package for Stochastic Blockmodels. Available github or CRAN\n\nPackages developed by my students:\n\ncolSBM by Saint Clair Chabert-Liddell et Louis Lacoste\nrobber by Saint Clair Chabert-Liddell\nMLVSBM by Saint Clair Chabert-Liddell\n\nmultiplexobs by Saint Clair Chabert-Liddell (post-doc)\nAuto-encoding-GPS-data by Saint Clair Chabert-Liddell (post-doc)\ncolvR by Barbara Bricout"
+  },
+  {
+    "objectID": "biography.html",
+    "href": "biography.html",
+    "title": "Biography",
+    "section": "",
+    "text": "Since jan. 2023  : Senior Researcher (DR2) at INRAE, MIA Paris-Saclay\nSince jan. 2022 : Vice head (DUA) of MIA Paris Saclay.\nMember of the scientific councils of AgroParisTech and IMPT\nCorrespondant for scientific mediation actions at FMJH\nResponsible of the Ecology “parcours” at Master 2 MathSV, University Paris Saclay\nDetailed CV in French (2026)"
+  },
+  {
+    "objectID": "biography.html#previous-positions",
+    "href": "biography.html#previous-positions",
+    "title": "Biography",
+    "section": "Previous positions",
+    "text": "Previous positions\n\n2021-2025: Team Leader of SOLsTIS\n20-20 : Member of the scientific council of MathNUM INRAE departement\n2013-2022: Researcher (CR) at INRAE, MIA Paris-Saclay\n2012-2014 : Long time mission in Mexico, as a visiting researcher at CIMAT (Centro de Investigacion en Matematicas) and Instituto de Matematicas, Universidad Nacional Autonoma de México (UNAM).\n2007 - 2013 : Lecturer (Maître de conférences) at Université Paris-Dauphine. Membre du CEREMADE"
+  },
+  {
+    "objectID": "biography.html#university-curriculum",
+    "href": "biography.html#university-curriculum",
+    "title": "Biography",
+    "section": "University curriculum",
+    "text": "University curriculum\n\n2018 : Habilitation à Diriger les Recherches (HDR) Contributions à l’inférence statistique de modèles complexes \n2003 - 2006 : PhD in Statistics. Defended on 30/11/2006 at University Paris-Sud. Advisors : M. Lavielle et J.-B. Poline (INRIA-Neuropsin). Title : Inversion de données IRMf. Estimation et sélection de modèles.\n2002 - 2003 : Master 2 in Stochastic modeling and statistics at University Paris Sud.\n2001 - 2002 : Agrégation de mathématiques, option probabilités et statistique."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sophie Donnet",
+    "section": "",
+    "text": "I am a statistic researcher at INRAE @ MIA Paris Saclay, member of the team SOLsTIS.\nCurrently, I am Vice head (DUA) of MIA Paris Saclay.\nOur lab is located at Campus Agro Paris-Saclay in Palaiseau (Plateau de Saclay)."
+  },
+  {
+    "objectID": "index.html#contact-information",
+    "href": "index.html#contact-information",
+    "title": "Sophie Donnet",
+    "section": "Contact information",
+    "text": "Contact information\n\n Bureau E4.215, Bâtiment recherche E, Campus agronomique Paris-Saclay\n UMR MIA-Paris-Saclay, AgroParisTech, INRAE,  22 place de l’Agronomie,  91120 Palaiseau\n +33 (0)1 89 10 09 38\n sophie [dot] donnet [at] inrae [dot] fr\n\n\n\nLast update on 17/11/26 \n Photo prise par Jean-Baptiste Denis à l’occasion de la journée en l’honneur de Eric Parent."
+  },
+  {
+    "objectID": "mouettes.html",
+    "href": "mouettes.html",
+    "title": "Les Mouettes Savantes",
+    "section": "",
+    "text": "Avec Marie-Pierre Etienne, Anna Bonnet, Marie Perrot-Dockès et Juliette Legrand, nous organisons une semaine de stage réservé aux lycéennes de Seconde. Si vous souhaitez en savoir plus sur les Mouettes Savantes, vous pouvez regarder cette vidéo tournée lors de la première édition.\nVous trouverez ici les ressources nécéssaires au projet “Moustique Tigre” que j’encadrerai lors des Mouettes Savantes 2026."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Last update on 17/11/26"
+  },
+  {
+    "objectID": "publications.html#submitted-papers",
+    "href": "publications.html#submitted-papers",
+    "title": "Publications",
+    "section": "Submitted papers",
+    "text": "Submitted papers\n\nAuto-encoding GPS data to reveal individual and collective behaviour, S.C. Chabert-Liddell, N. Bez, P. Gloaguen, S. Donnet , S. Mahévas. Submitted\nCommon Structure Discovery in Collections of Bipartite Networks: Application to Pollination Systems, L. Lacoste, P. Barbillon, S. Donnet. In revision\nInferring the presence and abundance of rare waterbirds species from scarce data, B. Bricout, L. Dami, P. Defos du Rau, S. Donnet, T. Galewski, S. Robin. In revision\nComplementarity of temporal and spatial resilience indicators, Benoit Pichon, Isabelle Gounand, Sophie Donnet and d Sonia Kéfi. Submitted"
+  },
+  {
+    "objectID": "publications.html#published-or-accepted-articles",
+    "href": "publications.html#published-or-accepted-articles",
+    "title": "Publications",
+    "section": "Published or accepted articles",
+    "text": "Published or accepted articles\n\nA framework for integrating resilience indicators into risk assessments Benoît Pichon, Sophie Donnet, Isabelle Gounand, Madhur Anand, Sonia Kéfi Conservation Biology (2026), e70379\nClimatic legacies drive spatial aggregation of plants in drylands, Pichon, B., S. Kéfi, I. Gounand, and S. Donnet. Global Change Biology (2026)32, no. 5\nVegetation patterns pinpoint the least resilient dryland sites. Pichon, B., Donnet, S., Gounand, I., & Kéfi, S. (2026). Methods in Ecology and evolution (2026) 17, 172–187\nGrazing modulates the multiscale spatial structure of dryland vegetation. B. Pichon, B., S. Kéfi, I. Gounand, N. Gross, Y. Le Bagousse-Pinguet Josquin Guerber, David Eldridge, Enrique Valencia, César Plaza, Jaime Martínez-Valderrama, Hugo Saiz, Victoria Ochoa, Beatriz Gozalo, Emilio Guirado, Miguel García-Gómez, Juan J. Gaitán, Sergio Asensio, Betty Josefina Mendoza, Sophie Donnet, Fernando T. Maestre. Global Change Biology, 2025, 31, no. 7\nHoeffding-type decomposition for U-statistics on bipartite networks . T. Le Minh, S. Donnet, F. Massol, S. Robin. Electron. J. Statist. 19(1): 2829-2875 (2025). DOI: 10.1214/25-EJS2402\nThe interplay of facilitation and competition drives the emergence of multistability in dryland plant communities, B. Pichon, I. Gounand, S. Donnet, S. Kéfi. Ecology, August 2024, Volume 105, Issue 8.\nUsing the multivariate Hawkes process to study interactions between multiple species from camera trap data L. Nicvert, S. Donnet, M. Keith, M. Peel, M.J. Somers, L. H. Swanepoel, J. Venter, H. Fritz, and S. Dray. Ecology, April 2024, Volume 105, Issue 4\nLearning common structures in a collection of networks. An application to food webs. S.-C. Chabert-Liddell, P. Barbillon, S. Donnet. Annals of Applied Statistics, 18(2): 1213-1235 (June 2024).\nLinking seed networks and crop diversity contributions to people: a case study in small-scale farming systems in Sahelian Senegal. Vanesse Labeyrie, Sophie Donnet; Rachel S. Friedman; Ndeye Fatou Faye; Océane Cobelli; Jacopo Baggio; Kailin Kroetz; María R. Felipe-Lucia; Jaime Ashander; Christine Raimond. Volume 211, October 2023, 103726, Agricultural Systems\nExpert elicitation and hierarchical Bayesian approach for parametric survival models: An application to Ixodes ricinus ticks exposed to various temperature and relative humidity. P. Wongnak, S. Bord, S. Donnet, T. Hoch, F. Beugnet , K. Chalvet-Monfray. Ecological Modelling (2022), Volume 464\nImpact of the mesoscale structure of a bipartite ecological interaction network on its robustness through a probabilistic modeling, S.-C. Chabert-Liddell, P. Barbillon, S. Donnet. Published in Environmetrics (2022), Volume 33, Issue 2. DOI: 10.1002/env.2709\nCoupling ecological network analysis with high-throughput sequencing-based surveys: lessons from the Next-Generation Biomonitoring project, M. Dubart, P. Alonso, D. Barroso-Bergada, N. Becker, K. Bethune, D. A. Bohan, C. Boury, M. Cambon, E. Canard, E. Chancerel, J. Chiquet, P. David, N. de Manincor, S. Donnet, A. Duputié, B. Facon, E. Guichoux, T. Le Minh, S. Ortiz-Martínez, L. Piouceau, A. Sacco–Martret de Préville, M. Plantegenest, C. Poux, V. Ravigné, S. Robin, M. Trillat, C. Vacher, C. Vernière, François Massol. Advances in Ecological Research, Volume 65, 2021, Pages 367-430\nAccelerating Bayesian estimation for network Poisson models using frequentist variational estimates. Sophie Donnet, Stéphane Robin. JRSSC, 16 April 2021. [Arxiv].\nA Stochastic Block Model for Multilevel Networks: Application to the Sociology of Organisations. Saint-Clair Chabert-Liddell, Pierre Barbillon, Sophie Donnet & Emmanuel Lazega Computational Statistics and Data Analysis, Volume 158, june 2021. [Arxiv].\nBlock models for multipartite networks. Applications in ecology and ethnobiology. A. Bar-Hen, P. Barbillon & S. Donnet. Statistical Modelling, First Published December 18, 2020. [Arxiv]\nNonparametric Bayesian estimation of multivariate Hawkes processes. S. Donnet, V. Rivoirard & J. Rousseau. Annals of Statistics, 2020, Vol. 48, No. 5, 2698-2727. [Arxiv]\nEffects of competition on collective learning in advice networks. E. Lazega, A. Bar-Hen, P. Barbillon, S. Donnet. Social Networks, Volume 47, October 2016, Pages 1–14  pdf\nStochastic block models for multiplex networks: an application ot multilevel network of researchers. P. Barbillon, S. Donnet, E. Lazega, A. Bar-Hen. JRSSA. Volume 180, Issue1, January 2017, Pages 295-314 [Arxiv]\nPosterior concentration rates for empirical Bayes procedures with applications to Dirichlet process mixtures. S. Donnet, V. Rivoirard, J. Rousseau, C. Scricciolo. Bernoulli Journal 24(1): 231-256 (February 2018).\nPosterior concentration rates for counting processes with Aalen multiplicative intensities S. Donnet, V. Rivoirard, J. Rousseau, C. Scricciolo. Bayesian Analysis 12(1): 53-87 (March 2017).\nBayesian Analysis of ODE’s : solver optimal accuracy and Bayes factors. M. Capistran, A. Christen, S. Donnet. Journal of Uncertainty Quantification, 4, 829-849.  pdf\nInference for Partially Observed Branching Processes. S. Donnet, J. Rousseau, J. Bayesian Bayesian Analysis Volume 11, Number 1 (2016), 151-190\nMonkeys time their movement pauses and not their movement kinematics during a synchronization-continuation rhythmic task. S. Donnet, Bartolo, R., Fernandes J.M., Cunha J.P., Prado, L. and Merchant, H. Journal Of Neurophysiology, May 2014 ; 111(10), 2138  pdf\nUsing PMCMC in EM algorithm for stochastic mixed models : theoretical and practical issues. S. Donnet, A. Samson. Journal de la Société Française de Statistique, 155, 49-72, 2014.\nA review on estimation of stochastic differential equations for pharmacokinetic/ pharmacodynamic models. S. Donnet, A. Samson. Advanced Drug Delivery Reviews  pdf\nCombining expert opinions in prior elicitation (with discussion) I. Albert, S. Donnet, C. Guihenneuc, S. Low-Choy, K. Mengersen, J. Rousseau, Bayesian Analysis, 7(3), 503-546 (2012)\nAn empirical Bayes procedure for the selection of Gaussian graphical models S. Donnet, J.-M. Marin, Statistics and Computing, 22(5), 1113-1123 (2012)  pdf\nBayesian analysis of growth curves using mixed models defined by stochastic differential equations, S. Donnet , J-L Foulley, A. Samson. Biometrics, 66(3) :733-741, (2010)  pdf\nA joint detection-estimation framework for analysing within-subject fMRI data P. Ciuciu, T. Vincent, L. Risser, S. Donnet. Journal de la Société Française de Statistiques, Vol. 151, No 1 (2010)\nParametric inference for mixed models defined by stochastic differential equations, S. Donnet, A. Samson. ESAIM P&S, 12 :196-218, (2008)  pdf\nEstimation of parameters in missing data models defined by differential equations S. Donnet, A. Samson J. Statist. Plann. Inference 137 (2007), no. 9, 2815–2831  pdf\nAre fMRI event related reponses constant across events ? S. Donnet, M. Lavielle, and J.-B. Poline. Neuroimage,Volume 31, Issue 3, 1 (July 2006), 1169 – 1176"
+  },
+  {
+    "objectID": "publications.html#book-chapters",
+    "href": "publications.html#book-chapters",
+    "title": "Publications",
+    "section": "Book chapters",
+    "text": "Book chapters\n\nSeed circulation networks, the missing link between crop diversity and sustainable agriculture. V. Labeyrie, S. Donnet, S. Caillon, E. Garine, C. Raimond. Chapter 3 of the “Handbook of Social Networks and the Environment” (2025)\nChap Modèles à blocs latents pour la détection de structure dans les réseaux écologiques/Statistical Models for Hidden Variables in Ecology. J. Aubert, P. Barbillon, S. Donnet, V.Miele. Available @ ISTE."
+  },
+  {
+    "objectID": "publications.html#never-published",
+    "href": "publications.html#never-published",
+    "title": "Publications",
+    "section": "Never published",
+    "text": "Never published\n\nUsing deterministic approximations to accelerate SMC for posterior sampling. S. Donnet, S. Robin. Working paper"
+  },
+  {
+    "objectID": "publications.html#book-reviews-and-discussions",
+    "href": "publications.html#book-reviews-and-discussions",
+    "title": "Publications",
+    "section": "Book reviews and discussions",
+    "text": "Book reviews and discussions\n\n[B3] S. Donnet. Book review of “Stochastic Modelling for Systems Biology (second edition)” by Darren J. Wilkinson. CHANCE 25-4 (Décembre 2012)\n[B2] S. Donnet. Book review of “Statistical Thinking in Epidemiology” by Yu-Kang Tu and Mark S. Gilthorpe. CHANCE 25-4 (Décembre 2012)\n[B1] S. Donnet. Book review of “Monte Carlo Simulation for the Pharmaceutical Industry : Concepts, Algorithms, and Case Studies” by Mark Chang. International Statistical Review (Avril 2012)\n[D1] S. Donnet, A. Samson. Discussion on “Parameter estimation for differential equations : a generalized smoothing approaché” (by Ramsay JO, Hooker G, Campbell D and Cao J), Journal of the Royal Statistical Society : Series B, 69(5) :741-796, (2007)"
+  },
+  {
+    "objectID": "students.html#current-post-docs",
+    "href": "students.html#current-post-docs",
+    "title": "Past and current students",
+    "section": " Current post-docs",
+    "text": "Current post-docs\n\n Lucas Rey. Since Sept 2025, co-encadré avec Camille Coron et Julien Stoehr"
+  },
+  {
+    "objectID": "students.html#current-phd-students",
+    "href": "students.html#current-phd-students",
+    "title": "Past and current students",
+    "section": " Current PhD students",
+    "text": "Current PhD students\n\n Ibrahim Seydi. Since Mai. 2025, with Merlin Keller and Julien Stoehr (AgroParisTech). Fellowship : CIFFRE EDF - Agroparistech innovation. Sujet: Hybrid Models for seismic hazard quantification\n\n\n\n Louis Lacoste. Since Sept. 2024, with Pierre Barbillon (AgroParisTech) and Julie Aubert (INRAE). Fellowship : FMJH and Département MATHNUM, INRAE. Sujet: Comparaison de structures de réseaux. Applications à des réseaux écologiques\n\n\n\n Barbara Bricout. Since February 2023, with S. Robin (Sorbonne Université), Thomas Galewski (Tour du Valat), Pierre Defos Du Rau (OFB) and Laura Dami (Tour du Valat). Fellowship: OFB, Tour du Valat + IMPT . Sujet: Modèles d’imputation pour la biodiversité et les sciences écologiques"
+  },
+  {
+    "objectID": "students.html#past-phd-students",
+    "href": "students.html#past-phd-students",
+    "title": "Past and current students",
+    "section": " Past PhD students",
+    "text": "Past PhD students\n\n\n Benoit Pichon. 2022 - 2025, with Sonia Kefi (ISEM) and Isabelle Gounand (iEES-Paris). Fellowship: Chaire MMB. Sujet: Modulateurs des rétroactions écologiques et propriétés émergentes des écosystèmes à différentes échelles\nTam Le Minh.Oct 2020 - 2023, with S. Robin (Sorbonne Université) and F. Massol (CNRS). Fellowship : DIM Mathinnov and ANR Project EcoNet. Sujet: U-statistics of row-column exchangeable matrices: application to ecological network analysis\n Saint-Clair Chabert-Liddell. Between sept. 2018 and march 2022, with P. Barbillon (AgroParisTech). Fellowship : EDMH Sujet: Statistical learning of collections of networks with applications in ecology and sociology"
+  },
+  {
+    "objectID": "students.html#past-post-doc",
+    "href": "students.html#past-post-doc",
+    "title": "Past and current students",
+    "section": " Past Post-doc",
+    "text": "Past Post-doc\n\nSaint-Clair Chabert-Liddell (sept. 2022 - mars 2024 ) with S. Mahevas (IFREMER), N. Bez (IRD) et P. Gloaguen (Univ. Bretagne Sud). Fellowship: France Filière Pêche (FFP) as part of the MACCOLOC project\nAndreia Hisi (betwenn 04/2020 and 04/2021) with S. Robin (INRAE). Fellowship ANR NGB"
+  },
+  {
+    "objectID": "students.html#master-2",
+    "href": "students.html#master-2",
+    "title": "Past and current students",
+    "section": " Master 2",
+    "text": "Master 2\n\nYann Chauvard (2026)\nPol Moureix–Kieffer (2026)\nLouis Lacoste (2024)\nArmand Favrot (2021)\nFerdinand Campos (2021)\nTâm Le Minh (2020)\nSouhila Founas (2019)\nSaint-Clair Chabert-Liddell (2018)\nDaouda Ba (2018)\nTimothée Tabouy (2016)\nAbdel Wahab Sow (2015)\nMarco Banterle (2012)"
+  },
+  {
+    "objectID": "students.html#master-1",
+    "href": "students.html#master-1",
+    "title": "Past and current students",
+    "section": " Master 1",
+    "text": "Master 1\nAntoine Malet (2024), Thomas Vrignaud (2019), Jocelyn Vanhonacker (2018), Wei Huang (2010)"
+  }
+]
